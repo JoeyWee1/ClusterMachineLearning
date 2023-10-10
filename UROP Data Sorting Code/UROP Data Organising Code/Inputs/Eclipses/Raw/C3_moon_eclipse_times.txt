@@ -1,0 +1,56 @@
+ 25   3  R  2001-01-25T06:27:23Z  000:40:22Z  ECL MOON START                      0013
+ 25   3  R  2001-01-25T07:07:45Z              ECL MOON END                            
+190   3  R  2002-07-09T05:45:53Z  001:06:39Z  ECL MOON START                      0027
+190   3  R  2002-07-09T06:52:32Z              ECL MOON END                            
+  4   3  R  2003-01-04T00:22:29Z  000:59:08Z  ECL MOON START                      0094
+  4   3  R  2003-01-04T01:21:37Z              ECL MOON END                            
+168   3  R  2004-06-16T10:07:23Z  000:36:32Z  ECL MOON START                      0012
+168   3  R  2004-06-16T10:43:55Z              ECL MOON END                            
+ 98   3  R  2005-04-08T23:30:22Z  000:20:25Z  ECL MOON START                      0017
+ 98   3  R  2005-04-08T23:50:47Z              ECL MOON END                            
+156   3  R  2005-06-05T16:28:12Z  000:33:01Z  ECL MOON START                      0022
+156   3  R  2005-06-05T17:01:13Z              ECL MOON END                            
+ 59   3  R  2006-02-28T03:34:23Z  000:47:51Z  ECL MOON START                      0080
+ 59   3  R  2006-02-28T04:22:14Z              ECL MOON END                            
+146   3  R  2006-05-26T16:24:23Z  000:13:26Z  ECL MOON START                      0000
+146   3  R  2006-05-26T16:37:49Z              ECL MOON END                            
+206   3  R  2006-07-25T00:01:15Z  000:25:53Z  ECL MOON START                      0075
+206   3  R  2006-07-25T00:27:08Z              ECL MOON END                            
+324   3  R  2006-11-20T18:18:16Z  000:20:33Z  ECL MOON START                      0035
+324   3  R  2006-11-20T18:38:49Z              ECL MOON END                            
+184   3  R  2008-07-02T21:59:19Z  000:08:59Z  ECL MOON START                      0008
+184   3  R  2008-07-02T22:08:18Z              ECL MOON END                            
+142   3  R  2012-05-21T03:50:52Z  000:19:58Z  ECL MOON START                      0053
+142   3  R  2012-05-21T04:10:50Z              ECL MOON END                            
+171   3  R  2012-06-19T14:22:54Z  000:16:05Z  ECL MOON START                      0013
+171   3  R  2012-06-19T14:38:59Z              ECL MOON END                            
+336   3  R  2013-12-02T22:49:12Z  000:10:57Z  ECL MOON START                      0004
+336   3  R  2013-12-02T23:00:09Z              ECL MOON END                            
+356   3  R  2014-12-22T06:32:31Z  000:14:45Z  ECL MOON START                      0001
+356   3  R  2014-12-22T06:47:16Z              ECL MOON END                            
+ 49   3  R  2015-02-18T20:53:31Z  000:46:28Z  ECL MOON START                      0040
+ 49   3  R  2015-02-18T21:39:59Z              ECL MOON END                            
+109   3  R  2015-04-19T03:11:17Z  000:29:56Z  ECL MOON START                      0069
+109   3  R  2015-04-19T03:41:13Z              ECL MOON END                            
+256   3  R  2015-09-13T02:46:43Z  000:23:50Z  ECL MOON START                      0059
+256   3  R  2015-09-13T03:10:33Z              ECL MOON END                            
+316   3  R  2015-11-12T16:33:06Z  000:20:15Z  ECL MOON START                      0009
+316   3  R  2015-11-12T16:53:21Z              ECL MOON END                            
+346   3  R  2015-12-12T03:14:39Z  000:35:28Z  ECL MOON START                      0096
+346   3  R  2015-12-12T03:50:07Z              ECL MOON END                            
+ 39   3  R  2016-02-08T18:22:52Z  000:32:21Z  ECL MOON START                      0012
+ 39   3  R  2016-02-08T18:55:13Z              ECL MOON END                            
+334   3  R  2016-11-29T06:12:23Z  000:27:21Z  ECL MOON START                      0082
+334   3  R  2016-11-29T06:39:45Z              ECL MOON END                            
+312   3  R  2018-11-08T16:49:18Z  000:54:03Z  ECL MOON START                      0044
+312   3  R  2018-11-08T17:43:22Z              ECL MOON END                            
+ 95   3  R  2019-04-05T16:36:46Z  000:43:11Z  ECL MOON START                      0082
+ 95   3  R  2019-04-05T17:19:58Z              ECL MOON END                            
+ 24   3  R  2020-01-24T15:28:20Z  000:32:00Z  ECL MOON START                      0028
+ 24   3  R  2020-01-24T16:00:21Z              ECL MOON END                            
+ 72   3  R  2021-03-13T13:41:23Z  000:36:16Z  ECL MOON START                      0015
+ 72   3  R  2021-03-13T14:17:39Z              ECL MOON END                            
+178   3  R  2022-06-27T18:25:26Z  001:19:00Z  ECL MOON START                      0050
+178   3  R  2022-06-27T19:44:26Z              ECL MOON END                            
+269   3  R  2022-09-26T05:49:55Z  001:38:23Z  ECL MOON START                      0059
+269   3  R  2022-09-26T07:28:19Z              ECL MOON END                            

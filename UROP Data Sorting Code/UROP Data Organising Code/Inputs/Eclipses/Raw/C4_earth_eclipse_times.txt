@@ -1,0 +1,1212 @@
+243   4  R  2000-08-30T12:38:26Z  003:08:42Z  ECL EARTH START                     0043
+243   4  R  2000-08-30T15:47:08Z              ECL EARTH END                           
+245   4  R  2000-09-01T20:54:09Z  003:41:07Z  ECL EARTH START                     0036
+245   4  R  2000-09-01T00:35:16Z              ECL EARTH END
+248   4  R  2000-09-04T06:06:58Z  002:23:10Z  ECL EARTH START                     0069
+248   4  R  2000-09-04T08:30:08Z              ECL EARTH END                           
+ 45   4  R  2001-02-14T02:13:40Z  000:16:28Z  ECL EARTH START                     0004
+ 45   4  R  2001-02-14T02:30:08Z              ECL EARTH END                           
+ 47   4  R  2001-02-16T11:13:12Z  000:27:19Z  ECL EARTH START                     0002
+ 47   4  R  2001-02-16T11:40:31Z              ECL EARTH END                           
+ 49   4  R  2001-02-18T20:14:42Z  000:33:38Z  ECL EARTH START                     0002
+ 49   4  R  2001-02-18T20:48:20Z              ECL EARTH END                           
+ 52   4  R  2001-02-21T05:18:17Z  000:37:53Z  ECL EARTH START                     0001
+ 52   4  R  2001-02-21T05:56:10Z              ECL EARTH END                           
+ 54   4  R  2001-02-23T14:24:34Z  000:40:43Z  ECL EARTH START                     0001
+ 54   4  R  2001-02-23T15:05:17Z              ECL EARTH END                           
+ 56   4  R  2001-02-25T23:31:43Z  000:42:21Z  ECL EARTH START                     0001
+ 57   4  R  2001-02-26T00:14:04Z              ECL EARTH END                           
+ 59   4  R  2001-02-28T08:37:21Z  000:42:55Z  ECL EARTH START                     0001
+ 59   4  P  2001-02-28T09:20:16Z              ECL EARTH END                           
+ 61   4  R  2001-03-02T17:41:59Z  000:42:35Z  ECL EARTH START                     0001
+ 61   4  R  2001-03-02T18:24:34Z              ECL EARTH END                           
+ 64   4  R  2001-03-05T02:47:33Z  000:41:14Z  ECL EARTH START                     0001
+ 64   4  R  2001-03-05T03:28:47Z              ECL EARTH END                           
+ 66   4  R  2001-03-07T11:55:06Z  000:38:48Z  ECL EARTH START                     0001
+ 66   4  R  2001-03-07T12:33:54Z              ECL EARTH END                           
+ 68   4  R  2001-03-09T21:04:16Z  000:35:02Z  ECL EARTH START                     0001
+ 68   4  R  2001-03-09T21:39:18Z              ECL EARTH END                           
+ 71   4  R  2001-03-12T06:13:51Z  000:29:24Z  ECL EARTH START                     0002
+ 71   4  R  2001-03-12T06:43:15Z              ECL EARTH END                           
+ 73   4  R  2001-03-14T15:23:40Z  000:20:38Z  ECL EARTH START                     0003
+ 73   4  R  2001-03-14T15:44:18Z              ECL EARTH END                           
+243   4  R  2001-08-31T20:02:29Z  002:38:42Z  ECL EARTH START                     0053
+243   4  R  2001-08-31T22:41:11Z              ECL EARTH END                           
+246   4  R  2001-09-03T04:07:06Z  003:36:38Z  ECL EARTH START                     0035
+246   4  R  2001-09-03T07:43:44Z              ECL EARTH END                           
+248   4  R  2001-09-05T13:05:10Z  002:48:51Z  ECL EARTH START                     0049
+248   4  R  2001-09-05T15:54:01Z              ECL EARTH END                           
+ 48   4  R  2002-02-17T21:45:49Z  000:24:14Z  ECL EARTH START                     0003
+ 48   4  R  2002-02-17T22:10:03Z              ECL EARTH END                           
+ 51   4  R  2002-02-20T06:44:03Z  000:33:05Z  ECL EARTH START                     0002
+ 51   4  R  2002-02-20T07:17:08Z              ECL EARTH END                           
+ 53   4  R  2002-02-22T15:43:52Z  000:38:39Z  ECL EARTH START                     0002
+ 53   4  R  2002-02-22T16:22:31Z              ECL EARTH END                           
+ 56   4  R  2002-02-25T00:45:49Z  000:42:15Z  ECL EARTH START                     0001
+ 56   4  R  2002-02-25T01:28:04Z              ECL EARTH END                           
+ 58   4  R  2002-02-27T09:49:49Z  000:44:21Z  ECL EARTH START                     0001
+ 58   4  R  2002-02-27T10:34:10Z              ECL EARTH END                           
+ 60   4  R  2002-03-01T18:54:32Z  000:45:09Z  ECL EARTH START                     0001
+ 60   4  R  2002-03-01T19:39:41Z              ECL EARTH END                           
+ 63   4  R  2002-03-04T03:58:35Z  000:44:44Z  ECL EARTH START                     0001
+ 63   4  R  2002-03-04T04:43:19Z              ECL EARTH END                           
+ 65   4  R  2002-03-06T13:02:02Z  000:43:03Z  ECL EARTH START                     0001
+ 65   4  R  2002-03-06T13:45:05Z              ECL EARTH END                           
+ 67   4  R  2002-03-08T22:06:16Z  000:40:01Z  ECL EARTH START                     0002
+ 67   4  R  2002-03-08T22:46:17Z              ECL EARTH END                           
+ 70   4  R  2002-03-11T07:13:02Z  000:35:12Z  ECL EARTH START                     0002
+ 70   4  R  2002-03-11T07:48:14Z              ECL EARTH END                           
+ 72   4  R  2002-03-13T16:22:46Z  000:27:36Z  ECL EARTH START                     0003
+ 72   4  R  2002-03-13T16:50:22Z              ECL EARTH END                           
+ 75   4  R  2002-03-16T01:35:12Z  000:13:04Z  ECL EARTH START                     0009
+ 75   4  R  2002-03-16T01:48:16Z              ECL EARTH END                           
+245   4  R  2002-09-02T02:10:13Z  001:57:22Z  ECL EARTH START                     0117
+245   4  R  2002-09-02T04:07:35Z              ECL EARTH END                           
+247   4  R  2002-09-04T09:56:23Z  003:32:23Z  ECL EARTH START                     0036
+247   4  R  2002-09-04T13:28:46Z              ECL EARTH END                           
+249   4  R  2002-09-06T18:39:17Z  003:11:32Z  ECL EARTH START                     0040
+249   4  R  2002-09-06T21:50:49Z              ECL EARTH END                           
+ 47   4  R  2003-02-16T22:51:08Z  000:09:47Z  ECL EARTH START                     0009
+ 47   4  R  2003-02-16T23:00:55Z              ECL EARTH END                           
+ 50   4  R  2003-02-19T07:50:20Z  000:24:36Z  ECL EARTH START                     0002
+ 50   4  R  2003-02-19T08:14:56Z              ECL EARTH END                           
+ 52   4  R  2003-02-21T16:52:28Z  000:32:04Z  ECL EARTH START                     0002
+ 52   4  R  2003-02-21T17:24:32Z              ECL EARTH END                           
+ 55   4  R  2003-02-24T01:54:29Z  000:36:55Z  ECL EARTH START                     0001
+ 55   4  R  2003-02-24T02:31:24Z              ECL EARTH END                           
+ 57   4  R  2003-02-26T10:56:47Z  000:40:07Z  ECL EARTH START                     0001
+ 57   4  R  2003-02-26T11:36:54Z              ECL EARTH END                           
+ 59   4  R  2003-02-28T20:01:09Z  000:42:10Z  ECL EARTH START                     0001
+ 59   4  R  2003-02-28T20:43:19Z              ECL EARTH END                           
+ 62   4  R  2003-03-03T05:08:19Z  000:43:10Z  ECL EARTH START                     0001
+ 62   4  R  2003-03-03T05:51:29Z              ECL EARTH END                           
+ 64   4  R  2003-03-05T14:15:35Z  000:43:08Z  ECL EARTH START                     0001
+ 64   4  P  2003-03-05T14:58:43Z              ECL EARTH END                           
+ 66   4  P  2003-03-07T23:21:16Z  000:42:05Z  ECL EARTH START                     0001
+ 67   4  P  2003-03-08T00:03:21Z              ECL EARTH END                           
+ 69   4  P  2003-03-10T08:26:28Z  000:40:00Z  ECL EARTH START                     0001
+ 69   4  P  2003-03-10T09:06:28Z              ECL EARTH END                           
+ 71   4  P  2003-03-12T17:32:37Z  000:36:39Z  ECL EARTH START                     0001
+ 71   4  P  2003-03-12T18:09:16Z              ECL EARTH END                           
+ 74   4  R  2003-03-15T02:40:41Z  000:31:39Z  ECL EARTH START                     0002
+ 74   4  R  2003-03-15T03:12:20Z              ECL EARTH END                           
+ 76   4  R  2003-03-17T11:51:10Z  000:23:52Z  ECL EARTH START                     0003
+ 76   4  R  2003-03-17T12:15:02Z              ECL EARTH END                           
+ 78   4  R  2003-03-19T21:06:27Z  000:06:30Z  ECL EARTH START                     0006
+ 78   4  R  2003-03-19T21:12:57Z              ECL EARTH END                           
+246   4  R  2003-09-03T09:58:22Z  001:48:14Z  ECL EARTH START                     0108
+246   4  R  2003-09-03T11:46:36Z              ECL EARTH END                           
+248   4  R  2003-09-05T17:52:09Z  003:16:32Z  ECL EARTH START                     0032
+248   4  R  2003-09-05T21:08:41Z              ECL EARTH END                           
+251   4  R  2003-09-08T02:35:09Z  003:02:33Z  ECL EARTH START                     0034
+251   4  R  2003-09-08T05:37:42Z              ECL EARTH END                           
+ 51   4  R  2004-02-20T17:35:57Z  000:22:19Z  ECL EARTH START                     0003
+ 51   4  R  2004-02-20T17:58:16Z              ECL EARTH END                           
+ 54   4  R  2004-02-23T02:37:35Z  000:31:20Z  ECL EARTH START                     0002
+ 54   4  R  2004-02-23T03:08:55Z              ECL EARTH END                           
+ 56   4  R  2004-02-25T11:38:30Z  000:36:59Z  ECL EARTH START                     0002
+ 56   4  R  2004-02-25T12:15:29Z              ECL EARTH END                           
+ 58   4  R  2004-02-27T20:39:16Z  000:40:41Z  ECL EARTH START                     0001
+ 58   4  R  2004-02-27T21:19:57Z              ECL EARTH END                           
+ 61   4  R  2004-03-01T05:41:00Z  000:43:01Z  ECL EARTH START                     0001
+ 61   4  R  2004-03-01T06:24:01Z              ECL EARTH END                           
+ 63   4  R  2004-03-03T14:44:12Z  000:44:13Z  ECL EARTH START                     0001
+ 63   4  R  2004-03-03T15:28:25Z              ECL EARTH END                           
+ 65   4  R  2004-03-05T23:48:54Z  000:44:17Z  ECL EARTH START                     0001
+ 66   4  R  2004-03-06T00:33:11Z              ECL EARTH END                           
+ 68   4  R  2004-03-08T08:54:25Z  000:43:15Z  ECL EARTH START                     0001
+ 68   4  R  2004-03-08T09:37:40Z              ECL EARTH END                           
+ 70   4  R  2004-03-10T17:59:50Z  000:40:57Z  ECL EARTH START                     0001
+ 70   4  R  2004-03-10T18:40:47Z              ECL EARTH END                           
+ 73   4  R  2004-03-13T03:04:33Z  000:37:20Z  ECL EARTH START                     0002
+ 73   4  R  2004-03-13T03:41:53Z              ECL EARTH END                           
+ 75   4  R  2004-03-15T12:09:45Z  000:31:50Z  ECL EARTH START                     0002
+ 75   4  R  2004-03-15T12:41:35Z              ECL EARTH END                           
+ 77   4  R  2004-03-17T21:18:26Z  000:23:09Z  ECL EARTH START                     0003
+ 77   4  R  2004-03-17T21:41:35Z              ECL EARTH END                           
+249   4  R  2004-09-05T09:49:39Z  002:18:09Z  ECL EARTH START                     0051
+249   4  R  2004-09-05T12:07:48Z              ECL EARTH END                           
+251   4  R  2004-09-07T17:57:26Z  003:17:18Z  ECL EARTH START                     0030
+251   4  R  2004-09-07T21:14:44Z              ECL EARTH END                           
+254   4  R  2004-09-10T02:46:56Z  002:49:45Z  ECL EARTH START                     0036
+254   4  R  2004-09-10T05:36:41Z              ECL EARTH END                           
+ 51   4  R  2005-02-20T09:43:49Z  000:10:13Z  ECL EARTH START                     0010
+ 51   4  R  2005-02-20T09:54:02Z              ECL EARTH END                           
+ 53   4  R  2005-02-22T18:40:25Z  000:25:06Z  ECL EARTH START                     0003
+ 53   4  R  2005-02-22T19:05:31Z              ECL EARTH END                           
+ 56   4  R  2005-02-25T03:41:11Z  000:32:45Z  ECL EARTH START                     0002
+ 56   4  R  2005-02-25T04:13:56Z              ECL EARTH END                           
+ 58   4  R  2005-02-27T12:43:12Z  000:37:46Z  ECL EARTH START                     0001
+ 58   4  R  2005-02-27T13:20:58Z              ECL EARTH END                           
+ 60   4  R  2005-03-01T21:45:13Z  000:41:06Z  ECL EARTH START                     0001
+ 60   4  R  2005-03-01T22:26:19Z              ECL EARTH END                           
+ 63   4  R  2005-03-04T06:46:47Z  000:43:08Z  ECL EARTH START                     0001
+ 63   4  R  2005-03-04T07:29:55Z              ECL EARTH END                           
+ 65   4  R  2005-03-06T15:48:47Z  000:44:05Z  ECL EARTH START                     0001
+ 65   4  R  2005-03-06T16:32:52Z              ECL EARTH END                           
+ 68   4  R  2005-03-09T00:53:52Z  000:44:03Z  ECL EARTH START                     0001
+ 68   4  R  2005-03-09T01:37:55Z              ECL EARTH END                           
+ 70   4  R  2005-03-11T10:01:19Z  000:42:51Z  ECL EARTH START                     0001
+ 70   4  R  2005-03-11T10:44:10Z              ECL EARTH END                           
+ 72   4  R  2005-03-13T19:06:37Z  000:40:32Z  ECL EARTH START                     0001
+ 72   4  R  2005-03-13T19:47:09Z              ECL EARTH END                           
+ 75   4  R  2005-03-16T04:11:04Z  000:36:54Z  ECL EARTH START                     0002
+ 75   4  R  2005-03-16T04:47:58Z              ECL EARTH END                           
+ 77   4  R  2005-03-18T13:16:46Z  000:31:25Z  ECL EARTH START                     0002
+ 77   4  R  2005-03-18T13:48:11Z              ECL EARTH END                           
+ 79   4  R  2005-03-20T22:24:59Z  000:22:39Z  ECL EARTH START                     0003
+ 79   4  R  2005-03-20T22:47:38Z              ECL EARTH END                           
+250   4  R  2005-09-07T10:48:20Z  001:58:25Z  ECL EARTH START                     0042
+250   4  R  2005-09-07T12:46:45Z              ECL EARTH END                           
+252   4  R  2005-09-09T19:03:59Z  002:52:05Z  ECL EARTH START                     0025
+252   4  R  2005-09-09T21:56:04Z              ECL EARTH END                           
+255   4  R  2005-09-12T03:51:29Z  002:39:47Z  ECL EARTH START                     0026
+255   4  R  2005-09-12T06:31:16Z              ECL EARTH END                           
+257   4  R  2005-09-14T13:17:40Z  001:06:27Z  ECL EARTH START                     0066
+257   4  R  2005-09-14T14:24:07Z              ECL EARTH END                           
+ 56   4  R  2006-02-25T01:04:36Z  000:20:51Z  ECL EARTH START                     0004
+ 56   4  R  2006-02-25T01:25:27Z              ECL EARTH END                           
+ 58   4  R  2006-02-27T10:04:44Z  000:31:09Z  ECL EARTH START                     0002
+ 58   4  R  2006-02-27T10:35:53Z              ECL EARTH END                           
+ 60   4  R  2006-03-01T19:08:24Z  000:37:39Z  ECL EARTH START                     0002
+ 60   4  R  2006-03-01T19:46:03Z              ECL EARTH END                           
+ 63   4  R  2006-03-04T04:10:40Z  000:41:55Z  ECL EARTH START                     0002
+ 63   4  R  2006-03-04T04:52:35Z              ECL EARTH END                           
+ 65   4  R  2006-03-06T13:12:35Z  000:44:36Z  ECL EARTH START                     0001
+ 65   4  R  2006-03-06T13:57:11Z              ECL EARTH END                           
+ 67   4  R  2006-03-08T22:15:42Z  000:46:03Z  ECL EARTH START                     0001
+ 67   4  R  2006-03-08T23:01:45Z              ECL EARTH END                           
+ 70   4  R  2006-03-11T07:20:18Z  000:46:18Z  ECL EARTH START                     0001
+ 70   4  R  2006-03-11T08:06:36Z              ECL EARTH END                           
+ 72   4  R  2006-03-13T16:26:04Z  000:45:24Z  ECL EARTH START                     0001
+ 72   4  R  2006-03-13T17:11:28Z              ECL EARTH END                           
+ 75   4  R  2006-03-16T01:32:35Z  000:43:07Z  ECL EARTH START                     0002
+ 75   4  R  2006-03-16T02:15:42Z              ECL EARTH END                           
+ 77   4  R  2006-03-18T10:39:21Z  000:39:15Z  ECL EARTH START                     0002
+ 77   4  R  2006-03-18T11:18:36Z              ECL EARTH END                           
+ 79   4  R  2006-03-20T19:46:19Z  000:33:14Z  ECL EARTH START                     0002
+ 79   4  R  2006-03-20T20:19:33Z              ECL EARTH END                           
+ 82   4  R  2006-03-23T04:54:29Z  000:23:33Z  ECL EARTH START                     0004
+ 82   4  R  2006-03-23T05:18:02Z              ECL EARTH END                           
+254   4  R  2006-09-11T02:37:16Z  001:51:41Z  ECL EARTH START                     0046
+254   4  R  2006-09-11T04:28:57Z              ECL EARTH END                           
+256   4  R  2006-09-13T10:50:20Z  002:51:28Z  ECL EARTH START                     0024
+256   4  R  2006-09-13T13:41:48Z              ECL EARTH END                           
+258   4  R  2006-09-15T19:32:52Z  002:49:30Z  ECL EARTH START                     0023
+258   4  R  2006-09-15T22:22:22Z              ECL EARTH END                           
+261   4  R  2006-09-18T04:38:26Z  001:57:23Z  ECL EARTH START                     0035
+261   4  R  2006-09-18T06:35:49Z              ECL EARTH END                           
+ 55   4  R  2007-02-24T00:41:23Z  000:12:13Z  ECL EARTH START                     0004
+ 55   4  R  2007-02-24T00:53:36Z              ECL EARTH END                           
+ 57   4  R  2007-02-26T09:40:55Z  000:21:37Z  ECL EARTH START                     0002
+ 57   4  R  2007-02-26T10:02:32Z              ECL EARTH END                           
+ 59   4  R  2007-02-28T18:43:17Z  000:27:24Z  ECL EARTH START                     0001
+ 59   4  R  2007-02-28T19:10:41Z              ECL EARTH END                           
+ 62   4  R  2007-03-03T03:47:12Z  000:31:37Z  ECL EARTH START                     0001
+ 62   4  R  2007-03-03T04:18:49Z              ECL EARTH END                           
+ 64   4  R  2007-03-05T12:51:44Z  000:34:49Z  ECL EARTH START                     0001
+ 64   4  R  2007-03-05T13:26:33Z              ECL EARTH END                           
+ 66   4  R  2007-03-07T21:56:13Z  000:37:10Z  ECL EARTH START                     0001
+ 66   4  R  2007-03-07T22:33:23Z              ECL EARTH END                           
+ 69   4  R  2007-03-10T07:00:14Z  000:38:48Z  ECL EARTH START                     0001
+ 69   4  R  2007-03-10T07:39:02Z              ECL EARTH END                           
+ 71   4  R  2007-03-12T16:03:50Z  000:39:52Z  ECL EARTH START                     0001
+ 71   4  R  2007-03-12T16:43:42Z              ECL EARTH END                           
+ 74   4  R  2007-03-15T01:07:56Z  000:40:22Z  ECL EARTH START                     0001
+ 74   4  R  2007-03-15T01:48:18Z              ECL EARTH END                           
+ 76   4  R  2007-03-17T10:14:18Z  000:40:16Z  ECL EARTH START                     0001
+ 76   4  R  2007-03-17T10:54:34Z              ECL EARTH END                           
+ 78   4  R  2007-03-19T19:22:16Z  000:39:30Z  ECL EARTH START                     0001
+ 78   4  R  2007-03-19T20:01:46Z              ECL EARTH END                           
+ 81   4  R  2007-03-22T04:28:04Z  000:38:06Z  ECL EARTH START                     0001
+ 81   4  R  2007-03-22T05:06:10Z              ECL EARTH END                           
+ 83   4  R  2007-03-24T13:33:09Z  000:36:05Z  ECL EARTH START                     0001
+ 83   4  R  2007-03-24T14:09:14Z              ECL EARTH END                           
+ 85   4  R  2007-03-26T22:39:30Z  000:33:11Z  ECL EARTH START                     0001
+ 85   4  R  2007-03-26T23:12:41Z              ECL EARTH END                           
+ 88   4  R  2007-03-29T07:47:24Z  000:29:05Z  ECL EARTH START                     0001
+ 88   4  R  2007-03-29T08:16:29Z              ECL EARTH END                           
+ 90   4  R  2007-03-31T16:56:43Z  000:23:04Z  ECL EARTH START                     0002
+ 90   4  R  2007-03-31T17:19:47Z              ECL EARTH END                           
+ 93   4  R  2007-04-03T02:08:07Z  000:12:25Z  ECL EARTH START                     0005
+ 93   4  R  2007-04-03T02:20:32Z              ECL EARTH END                           
+260   4  R  2007-09-17T00:30:38Z  002:03:27Z  ECL EARTH START                     0034
+260   4  R  2007-09-17T02:34:05Z              ECL EARTH END                           
+262   4  R  2007-09-19T08:51:22Z  002:48:24Z  ECL EARTH START                     0021
+262   4  R  2007-09-19T11:39:46Z              ECL EARTH END                           
+264   4  R  2007-09-21T17:32:44Z  002:49:08Z  ECL EARTH START                     0019
+264   4  R  2007-09-21T20:21:52Z              ECL EARTH END                           
+267   4  R  2007-09-24T02:26:40Z  002:21:13Z  ECL EARTH START                     0022
+267   4  R  2007-09-24T04:47:53Z              ECL EARTH END                           
+269   4  P  2007-09-26T11:38:41Z  001:12:22Z  ECL EARTH START                     0072
+269   4  P  2007-09-26T12:51:03Z              ECL EARTH END                           
+ 56   4  R  2008-02-25T09:43:34Z  000:08:06Z  ECL EARTH START                     0007
+ 56   4  R  2008-02-25T09:51:40Z              ECL EARTH END                           
+ 58   4  R  2008-02-27T18:43:58Z  000:16:47Z  ECL EARTH START                     0002
+ 58   4  R  2008-02-27T19:00:45Z              ECL EARTH END                           
+ 61   4  R  2008-03-01T03:45:29Z  000:21:51Z  ECL EARTH START                     0001
+ 61   4  R  2008-03-01T04:07:20Z              ECL EARTH END                           
+ 63   4  R  2008-03-03T12:47:39Z  000:25:32Z  ECL EARTH START                     0001
+ 63   4  R  2008-03-03T13:13:11Z              ECL EARTH END                           
+ 65   4  R  2008-03-05T21:51:24Z  000:28:26Z  ECL EARTH START                     0001
+ 65   4  R  2008-03-05T22:19:50Z              ECL EARTH END                           
+ 68   4  R  2008-03-08T06:57:01Z  000:30:49Z  ECL EARTH START                     0001
+ 68   4  R  2008-03-08T07:27:50Z              ECL EARTH END                           
+ 70   4  R  2008-03-10T16:01:51Z  000:32:44Z  ECL EARTH START                     0001
+ 70   4  R  2008-03-10T16:34:35Z              ECL EARTH END                           
+ 73   4  R  2008-03-13T01:05:03Z  000:34:15Z  ECL EARTH START                     0000
+ 73   4  R  2008-03-13T01:39:18Z              ECL EARTH END                           
+ 75   4  R  2008-03-15T10:08:39Z  000:35:27Z  ECL EARTH START                     0000
+ 75   4  R  2008-03-15T10:44:06Z              ECL EARTH END                           
+ 77   4  R  2008-03-17T19:13:28Z  000:36:21Z  ECL EARTH START                     0000
+ 77   4  R  2008-03-17T19:49:49Z              ECL EARTH END                           
+ 80   4  R  2008-03-20T04:19:13Z  000:36:53Z  ECL EARTH START                     0000
+ 80   4  R  2008-03-20T04:56:06Z              ECL EARTH END                           
+ 82   4  R  2008-03-22T13:25:04Z  000:37:08Z  ECL EARTH START                     0001
+ 82   4  R  2008-03-22T14:02:12Z              ECL EARTH END                           
+ 84   4  R  2008-03-24T22:30:25Z  000:36:59Z  ECL EARTH START                     0001
+ 84   4  R  2008-03-24T23:07:24Z              ECL EARTH END                           
+ 87   4  R  2008-03-27T07:35:03Z  000:36:32Z  ECL EARTH START                     0001
+ 87   4  R  2008-03-27T08:11:35Z              ECL EARTH END                           
+ 89   4  R  2008-03-29T16:39:19Z  000:35:44Z  ECL EARTH START                     0001
+ 89   4  R  2008-03-29T17:15:03Z              ECL EARTH END                           
+ 92   4  R  2008-04-01T01:44:12Z  000:34:34Z  ECL EARTH START                     0001
+ 92   4  R  2008-04-01T02:18:46Z              ECL EARTH END                           
+ 94   4  R  2008-04-03T10:51:00Z  000:32:57Z  ECL EARTH START                     0001
+ 94   4  R  2008-04-03T11:23:57Z              ECL EARTH END                           
+ 96   4  R  2008-04-05T19:58:54Z  000:30:41Z  ECL EARTH START                     0001
+ 96   4  R  2008-04-05T20:29:35Z              ECL EARTH END                           
+ 99   4  R  2008-04-08T05:05:05Z  000:27:35Z  ECL EARTH START                     0001
+ 99   4  R  2008-04-08T05:32:40Z              ECL EARTH END                           
+101   4  R  2008-04-10T14:10:48Z  000:23:27Z  ECL EARTH START                     0001
+101   4  R  2008-04-10T14:34:15Z              ECL EARTH END                           
+103   4  R  2008-04-12T23:18:22Z  000:17:25Z  ECL EARTH START                     0002
+103   4  R  2008-04-12T23:35:47Z              ECL EARTH END                           
+106   4  R  2008-04-15T08:30:35Z  000:04:14Z  ECL EARTH START                     0004
+106   4  R  2008-04-15T08:34:49Z              ECL EARTH END                           
+268   4  R  2008-09-24T10:00:09Z  001:46:06Z  ECL EARTH START                     0032
+268   4  R  2008-09-24T11:46:15Z              ECL EARTH END                           
+270   4  R  2008-09-26T18:23:38Z  002:28:58Z  ECL EARTH START                     0018
+270   4  R  2008-09-26T20:52:36Z              ECL EARTH END                           
+273   4  R  2008-09-29T03:02:30Z  002:37:50Z  ECL EARTH START                     0015
+273   4  R  2008-09-29T05:40:20Z              ECL EARTH END                           
+275   4  R  2008-10-01T11:49:45Z  002:27:41Z  ECL EARTH START                     0015
+275   4  R  2008-10-01T14:17:26Z              ECL EARTH END                           
+277   4  R  2008-10-03T20:44:11Z  002:02:14Z  ECL EARTH START                     0016
+277   4  R  2008-10-03T22:46:25Z              ECL EARTH END                           
+280   4  R  2008-10-06T05:48:09Z  001:18:19Z  ECL EARTH START                     0025
+280   4  R  2008-10-06T07:06:28Z              ECL EARTH END                           
+ 49   4  R  2009-02-18T15:13:11Z  000:05:29Z  ECL EARTH START                     0005
+ 49   4  R  2009-02-18T15:18:40Z              ECL EARTH END                           
+ 52   4  R  2009-02-21T00:15:07Z  000:10:17Z  ECL EARTH START                     0001
+ 52   4  R  2009-02-21T00:25:24Z              ECL EARTH END                           
+ 54   4  R  2009-02-23T09:18:41Z  000:13:20Z  ECL EARTH START                     0001
+ 54   4  R  2009-02-23T09:32:01Z              ECL EARTH END                           
+ 56   4  R  2009-02-25T18:23:52Z  000:15:55Z  ECL EARTH START                     0001
+ 56   4  R  2009-02-25T18:39:47Z              ECL EARTH END                           
+ 59   4  R  2009-02-28T03:29:13Z  000:18:11Z  ECL EARTH START                     0000
+ 59   4  R  2009-02-28T03:47:24Z              ECL EARTH END                           
+ 61   4  R  2009-03-02T12:33:11Z  000:20:03Z  ECL EARTH START                     0000
+ 61   4  R  2009-03-02T12:53:14Z              ECL EARTH END                           
+ 63   4  R  2009-03-04T21:36:40Z  000:21:37Z  ECL EARTH START                     0000
+ 63   4  R  2009-03-04T21:58:17Z              ECL EARTH END                           
+ 66   4  R  2009-03-07T06:41:03Z  000:23:00Z  ECL EARTH START                     0000
+ 66   4  R  2009-03-07T07:04:03Z              ECL EARTH END                           
+ 68   4  R  2009-03-09T15:46:41Z  000:24:15Z  ECL EARTH START                     0000
+ 68   4  R  2009-03-09T16:10:56Z              ECL EARTH END                           
+ 71   4  R  2009-03-12T00:52:44Z  000:25:25Z  ECL EARTH START                     0000
+ 71   4  R  2009-03-12T01:18:09Z              ECL EARTH END                           
+ 73   4  R  2009-03-14T09:58:11Z  000:26:28Z  ECL EARTH START                     0000
+ 73   4  R  2009-03-14T10:24:39Z              ECL EARTH END                           
+ 75   4  R  2009-03-16T19:02:39Z  000:27:26Z  ECL EARTH START                     0000
+ 75   4  R  2009-03-16T19:30:05Z              ECL EARTH END                           
+ 78   4  R  2009-03-19T04:06:33Z  000:28:17Z  ECL EARTH START                     0000
+ 78   4  R  2009-03-19T04:34:50Z              ECL EARTH END                           
+ 80   4  R  2009-03-21T13:10:41Z  000:29:05Z  ECL EARTH START                     0000
+ 80   4  R  2009-03-21T13:39:46Z              ECL EARTH END                           
+ 82   4  R  2009-03-23T22:16:03Z  000:29:47Z  ECL EARTH START                     0000
+ 82   4  R  2009-03-23T22:45:50Z              ECL EARTH END                           
+ 85   4  R  2009-03-26T07:22:28Z  000:30:20Z  ECL EARTH START                     0000
+ 85   4  R  2009-03-26T07:52:48Z              ECL EARTH END                           
+ 87   4  R  2009-03-28T16:27:50Z  000:30:47Z  ECL EARTH START                     0000
+ 87   4  R  2009-03-28T16:58:37Z              ECL EARTH END                           
+ 90   4  R  2009-03-31T01:31:44Z  000:31:13Z  ECL EARTH START                     0000
+ 90   4  R  2009-03-31T02:02:57Z              ECL EARTH END                           
+ 92   4  R  2009-04-02T10:35:53Z  000:31:36Z  ECL EARTH START                     0000
+ 92   4  R  2009-04-02T11:07:29Z              ECL EARTH END                           
+ 94   4  R  2009-04-04T19:41:09Z  000:31:56Z  ECL EARTH START                     0000
+ 94   4  R  2009-04-04T20:13:05Z              ECL EARTH END                           
+ 97   4  R  2009-04-07T04:47:16Z  000:32:08Z  ECL EARTH START                     0000
+ 97   4  R  2009-04-07T05:19:24Z              ECL EARTH END                           
+ 99   4  R  2009-04-09T13:53:18Z  000:32:12Z  ECL EARTH START                     0000
+ 99   4  R  2009-04-09T14:25:30Z              ECL EARTH END                           
+101   4  R  2009-04-11T22:58:32Z  000:32:06Z  ECL EARTH START                     0000
+101   4  R  2009-04-11T23:30:38Z              ECL EARTH END                           
+104   4  R  2009-04-14T08:02:50Z  000:31:55Z  ECL EARTH START                     0000
+104   4  R  2009-04-14T08:34:45Z              ECL EARTH END                           
+106   4  R  2009-04-16T17:06:46Z  000:31:40Z  ECL EARTH START                     0000
+106   4  R  2009-04-16T17:38:26Z              ECL EARTH END                           
+109   4  R  2009-04-19T02:11:28Z  000:31:19Z  ECL EARTH START                     0000
+109   4  R  2009-04-19T02:42:47Z              ECL EARTH END                           
+111   4  R  2009-04-21T11:17:39Z  000:30:47Z  ECL EARTH START                     0000
+111   4  R  2009-04-21T11:48:26Z              ECL EARTH END                           
+113   4  R  2009-04-23T20:24:04Z  000:30:01Z  ECL EARTH START                     0000
+113   4  R  2009-04-23T20:54:05Z              ECL EARTH END                           
+116   4  R  2009-04-26T05:28:53Z  000:28:56Z  ECL EARTH START                     0000
+116   4  R  2009-04-26T05:57:49Z              ECL EARTH END                           
+118   4  R  2009-04-28T14:33:00Z  000:27:39Z  ECL EARTH START                     0000
+118   4  R  2009-04-28T15:00:39Z              ECL EARTH END                           
+120   4  R  2009-04-30T23:38:10Z  000:26:04Z  ECL EARTH START                     0000
+121   4  R  2009-05-01T00:04:14Z              ECL EARTH END                           
+123   4  R  2009-05-03T08:44:40Z  000:24:03Z  ECL EARTH START                     0001
+123   4  R  2009-05-03T09:08:43Z              ECL EARTH END                           
+125   4  R  2009-05-05T17:51:51Z  000:21:22Z  ECL EARTH START                     0001
+125   4  R  2009-05-05T18:13:13Z              ECL EARTH END                           
+128   4  R  2009-05-08T02:58:57Z  000:17:43Z  ECL EARTH START                     0001
+128   4  R  2009-05-08T03:16:40Z              ECL EARTH END                           
+130   4  R  2009-05-10T12:06:05Z  000:12:02Z  ECL EARTH START                     0002
+130   4  R  2009-05-10T12:18:07Z              ECL EARTH END                           
+282   4  R  2009-10-09T21:32:03Z  001:10:26Z  ECL EARTH START                     0019
+282   4  R  2009-10-09T22:42:29Z              ECL EARTH END                           
+285   4  R  2009-10-12T06:13:05Z  001:37:53Z  ECL EARTH START                     0011
+285   4  R  2009-10-12T07:50:58Z              ECL EARTH END                           
+287   4  R  2009-10-14T15:02:43Z  001:48:19Z  ECL EARTH START                     0008
+287   4  R  2009-10-14T16:51:02Z              ECL EARTH END                           
+289   4  R  2009-10-16T23:55:53Z  001:50:44Z  ECL EARTH START                     0007
+290   4  R  2009-10-17T01:46:37Z              ECL EARTH END                           
+292   4  R  2009-10-19T08:50:46Z  001:48:24Z  ECL EARTH START                     0006
+292   4  R  2009-10-19T10:39:10Z              ECL EARTH END                           
+294   4  R  2009-10-21T17:46:59Z  001:43:03Z  ECL EARTH START                     0005
+294   4  R  2009-10-21T19:30:02Z              ECL EARTH END                           
+297   4  R  2009-10-24T02:44:44Z  001:35:52Z  ECL EARTH START                     0005
+297   4  R  2009-10-24T04:20:36Z              ECL EARTH END                           
+299   4  R  2009-10-26T11:44:09Z  001:27:50Z  ECL EARTH START                     0005
+299   4  R  2009-10-26T13:11:59Z              ECL EARTH END                           
+301   4  R  2009-10-28T20:44:52Z  001:19:35Z  ECL EARTH START                     0004
+301   4  R  2009-10-28T22:04:27Z              ECL EARTH END                           
+304   4  R  2009-10-31T05:45:46Z  001:11:12Z  ECL EARTH START                     0004
+304   4  R  2009-10-31T06:56:58Z              ECL EARTH END                           
+306   4  R  2009-11-02T14:46:10Z  001:02:26Z  ECL EARTH START                     0004
+306   4  R  2009-11-02T15:48:36Z              ECL EARTH END                           
+308   4  R  2009-11-04T23:46:59Z  000:53:31Z  ECL EARTH START                     0004
+309   4  R  2009-11-05T00:40:30Z              ECL EARTH END                           
+311   4  R  2009-11-07T08:49:11Z  000:44:54Z  ECL EARTH START                     0004
+311   4  R  2009-11-07T09:34:05Z              ECL EARTH END                           
+313   4  R  2009-11-09T17:52:39Z  000:36:48Z  ECL EARTH START                     0005
+313   4  R  2009-11-09T18:29:27Z              ECL EARTH END                           
+316   4  R  2009-11-12T02:56:39Z  000:29:03Z  ECL EARTH START                     0006
+316   4  R  2009-11-12T03:25:42Z              ECL EARTH END                           
+318   4  R  2009-11-14T12:00:41Z  000:21:03Z  ECL EARTH START                     0007
+318   4  R  2009-11-14T12:21:44Z              ECL EARTH END                           
+320   4  R  2009-11-16T21:05:22Z  000:10:48Z  ECL EARTH START                     0010
+320   4  R  2009-11-16T21:16:10Z              ECL EARTH END                           
+ 15   4  R  2010-01-15T02:21:54Z  000:02:17Z  ECL EARTH START                     0002
+ 15   4  R  2010-01-15T02:24:11Z              ECL EARTH END                           
+ 17   4  R  2010-01-17T08:36:38Z  000:04:12Z  ECL EARTH START                     0004
+ 17   4  R  2010-01-17T08:40:50Z              ECL EARTH END                           
+ 19   4  R  2010-01-19T14:52:19Z  000:06:04Z  ECL EARTH START                     0001
+ 19   4  R  2010-01-19T14:58:23Z              ECL EARTH END                           
+ 21   4  R  2010-01-21T21:08:00Z  000:07:55Z  ECL EARTH START                     0001
+ 21   4  R  2010-01-21T21:15:55Z              ECL EARTH END                           
+ 24   4  R  2010-01-24T03:23:05Z  000:09:13Z  ECL EARTH START                     0001
+ 24   4  R  2010-01-24T03:32:18Z              ECL EARTH END                           
+ 26   4  R  2010-01-26T09:37:48Z  000:09:56Z  ECL EARTH START                     0000
+ 26   4  R  2010-01-26T09:47:44Z              ECL EARTH END                           
+ 28   4  R  2010-01-28T15:53:08Z  000:10:22Z  ECL EARTH START                     0000
+ 28   4  R  2010-01-28T16:03:30Z              ECL EARTH END                           
+ 30   4  R  2010-01-30T22:09:34Z  000:10:50Z  ECL EARTH START                     0000
+ 30   4  R  2010-01-30T22:20:24Z              ECL EARTH END                           
+ 33   4  R  2010-02-02T04:26:35Z  000:11:31Z  ECL EARTH START                     0000
+ 33   4  R  2010-02-02T04:38:06Z              ECL EARTH END                           
+ 35   4  R  2010-02-04T10:43:17Z  000:12:16Z  ECL EARTH START                     0000
+ 35   4  R  2010-02-04T10:55:33Z              ECL EARTH END                           
+ 37   4  R  2010-02-06T16:59:17Z  000:12:56Z  ECL EARTH START                     0000
+ 37   4  R  2010-02-06T17:12:13Z              ECL EARTH END                           
+ 39   4  R  2010-02-08T23:14:39Z  000:13:29Z  ECL EARTH START                     0000
+ 39   4  R  2010-02-08T23:28:08Z              ECL EARTH END                           
+ 42   4  R  2010-02-11T05:30:04Z  000:13:53Z  ECL EARTH START                     0000
+ 42   4  R  2010-02-11T05:43:57Z              ECL EARTH END                           
+ 44   4  R  2010-02-13T11:46:09Z  000:14:15Z  ECL EARTH START                     0000
+ 44   4  R  2010-02-13T12:00:24Z              ECL EARTH END                           
+ 46   4  R  2010-02-15T18:03:02Z  000:14:46Z  ECL EARTH START                     0000
+ 46   4  R  2010-02-15T18:17:48Z              ECL EARTH END                           
+ 49   4  R  2010-02-18T00:20:01Z  000:15:21Z  ECL EARTH START                     0000
+ 49   4  R  2010-02-18T00:35:22Z              ECL EARTH END                           
+ 51   4  R  2010-02-20T06:36:05Z  000:15:56Z  ECL EARTH START                     0000
+ 51   4  R  2010-02-20T06:52:01Z              ECL EARTH END                           
+ 53   4  R  2010-02-22T12:51:32Z  000:16:24Z  ECL EARTH START                     0000
+ 53   4  R  2010-02-22T13:07:56Z              ECL EARTH END                           
+ 55   4  R  2010-02-24T19:07:14Z  000:16:46Z  ECL EARTH START                     0000
+ 55   4  R  2010-02-24T19:24:00Z              ECL EARTH END                           
+ 58   4  R  2010-02-27T01:23:57Z  000:17:09Z  ECL EARTH START                     0000
+ 58   4  R  2010-02-27T01:41:06Z              ECL EARTH END                           
+ 60   4  R  2010-03-01T07:41:25Z  000:17:35Z  ECL EARTH START                     0000
+ 60   4  R  2010-03-01T07:59:00Z              ECL EARTH END                           
+ 62   4  R  2010-03-03T13:58:44Z  000:18:05Z  ECL EARTH START                     0000
+ 62   4  R  2010-03-03T14:16:49Z              ECL EARTH END                           
+ 64   4  R  2010-03-05T20:15:11Z  000:18:35Z  ECL EARTH START                     0000
+ 64   4  R  2010-03-05T20:33:46Z              ECL EARTH END                           
+ 67   4  R  2010-03-08T02:30:56Z  000:19:03Z  ECL EARTH START                     0000
+ 67   4  R  2010-03-08T02:49:59Z              ECL EARTH END                           
+ 69   4  R  2010-03-10T08:46:29Z  000:19:29Z  ECL EARTH START                     0000
+ 69   4  R  2010-03-10T09:05:58Z              ECL EARTH END                           
+ 71   4  R  2010-03-12T15:02:37Z  000:19:53Z  ECL EARTH START                     0000
+ 71   4  R  2010-03-12T15:22:30Z              ECL EARTH END                           
+ 73   4  R  2010-03-14T21:19:34Z  000:20:20Z  ECL EARTH START                     0000
+ 73   4  R  2010-03-14T21:39:54Z              ECL EARTH END                           
+ 76   4  R  2010-03-17T03:36:40Z  000:20:48Z  ECL EARTH START                     0000
+ 76   4  R  2010-03-17T03:57:28Z              ECL EARTH END                           
+ 78   4  R  2010-03-19T09:52:56Z  000:21:16Z  ECL EARTH START                     0000
+ 78   4  R  2010-03-19T10:14:12Z              ECL EARTH END                           
+ 80   4  R  2010-03-21T16:08:23Z  000:21:45Z  ECL EARTH START                     0000
+ 80   4  R  2010-03-21T16:30:08Z              ECL EARTH END                           
+ 82   4  R  2010-03-23T22:23:58Z  000:22:13Z  ECL EARTH START                     0000
+ 82   4  R  2010-03-23T22:46:11Z              ECL EARTH END                           
+ 85   4  R  2010-03-26T04:40:19Z  000:22:42Z  ECL EARTH START                     0000
+ 85   4  R  2010-03-26T05:03:01Z              ECL EARTH END                           
+ 87   4  R  2010-03-28T10:57:30Z  000:23:10Z  ECL EARTH START                     0000
+ 87   4  R  2010-03-28T11:20:40Z              ECL EARTH END                           
+ 89   4  R  2010-03-30T17:14:40Z  000:23:40Z  ECL EARTH START                     0000
+ 89   4  R  2010-03-30T17:38:20Z              ECL EARTH END                           
+ 91   4  R  2010-04-01T23:31:06Z  000:24:10Z  ECL EARTH START                     0000
+ 91   4  R  2010-04-01T23:55:16Z              ECL EARTH END                           
+ 94   4  R  2010-04-04T05:46:35Z  000:24:41Z  ECL EARTH START                     0000
+ 94   4  R  2010-04-04T06:11:16Z              ECL EARTH END                           
+ 96   4  R  2010-04-06T12:01:44Z  000:25:10Z  ECL EARTH START                     0000
+ 96   4  R  2010-04-06T12:26:54Z              ECL EARTH END                           
+ 98   4  R  2010-04-08T18:17:16Z  000:25:43Z  ECL EARTH START                     0000
+ 98   4  R  2010-04-08T18:42:59Z              ECL EARTH END                           
+101   4  R  2010-04-11T00:33:40Z  000:26:14Z  ECL EARTH START                     0000
+101   4  R  2010-04-11T00:59:54Z              ECL EARTH END                           
+103   4  R  2010-04-13T06:50:23Z  000:26:43Z  ECL EARTH START                     0000
+103   4  R  2010-04-13T07:17:06Z              ECL EARTH END                           
+105   4  R  2010-04-15T13:06:17Z  000:27:12Z  ECL EARTH START                     0000
+105   4  R  2010-04-15T13:33:29Z              ECL EARTH END                           
+107   4  R  2010-04-17T19:21:15Z  000:27:45Z  ECL EARTH START                     0000
+107   4  R  2010-04-17T19:49:00Z              ECL EARTH END                           
+110   4  R  2010-04-20T01:36:10Z  000:28:17Z  ECL EARTH START                     0000
+110   4  R  2010-04-20T02:04:27Z              ECL EARTH END                           
+112   4  R  2010-04-22T07:51:51Z  000:28:54Z  ECL EARTH START                     0000
+112   4  R  2010-04-22T08:20:45Z              ECL EARTH END                           
+114   4  R  2010-04-24T14:08:17Z  000:29:28Z  ECL EARTH START                     0000
+114   4  R  2010-04-24T14:37:45Z              ECL EARTH END                           
+116   4  R  2010-04-26T20:24:55Z  000:30:02Z  ECL EARTH START                     0000
+116   4  R  2010-04-26T20:54:57Z              ECL EARTH END                           
+119   4  R  2010-04-29T02:40:52Z  000:30:32Z  ECL EARTH START                     0000
+119   4  R  2010-04-29T03:11:24Z              ECL EARTH END                           
+121   4  R  2010-05-01T08:55:52Z  000:31:04Z  ECL EARTH START                     0000
+121   4  R  2010-05-01T09:26:56Z              ECL EARTH END                           
+123   4  R  2010-05-03T15:10:18Z  000:31:36Z  ECL EARTH START                     0000
+123   4  R  2010-05-03T15:41:54Z              ECL EARTH END                           
+125   4  R  2010-05-05T21:25:04Z  000:32:12Z  ECL EARTH START                     0000
+125   4  R  2010-05-05T21:57:16Z              ECL EARTH END                           
+128   4  R  2010-05-08T03:40:39Z  000:32:48Z  ECL EARTH START                     0000
+128   4  R  2010-05-08T04:13:27Z              ECL EARTH END                           
+130   4  R  2010-05-10T09:56:43Z  000:33:19Z  ECL EARTH START                     0000
+130   4  R  2010-05-10T10:30:02Z              ECL EARTH END                           
+132   4  R  2010-05-12T16:12:07Z  000:33:44Z  ECL EARTH START                     0000
+132   4  R  2010-05-12T16:45:51Z              ECL EARTH END                           
+134   4  R  2010-05-14T22:26:32Z  000:34:12Z  ECL EARTH START                     0000
+134   4  R  2010-05-14T23:00:44Z              ECL EARTH END                           
+137   4  R  2010-05-17T04:40:49Z  000:34:40Z  ECL EARTH START                     0000
+137   4  R  2010-05-17T05:15:29Z              ECL EARTH END                           
+139   4  R  2010-05-19T10:55:49Z  000:35:09Z  ECL EARTH START                     0000
+139   4  R  2010-05-19T11:30:58Z              ECL EARTH END                           
+141   4  R  2010-05-21T17:11:39Z  000:35:35Z  ECL EARTH START                     0000
+141   4  R  2010-05-21T17:47:14Z              ECL EARTH END                           
+143   4  R  2010-05-23T23:27:45Z  000:35:54Z  ECL EARTH START                     0000
+144   4  R  2010-05-24T00:03:39Z              ECL EARTH END                           
+146   4  R  2010-05-26T05:43:27Z  000:36:06Z  ECL EARTH START                     0000
+146   4  R  2010-05-26T06:19:33Z              ECL EARTH END                           
+148   4  R  2010-05-28T11:58:18Z  000:36:09Z  ECL EARTH START                     0000
+148   4  R  2010-05-28T12:34:27Z              ECL EARTH END                           
+150   4  R  2010-05-30T18:12:35Z  000:36:08Z  ECL EARTH START                     0000
+150   4  R  2010-05-30T18:48:43Z              ECL EARTH END                           
+153   4  R  2010-06-02T00:27:03Z  000:35:59Z  ECL EARTH START                     0000
+153   4  R  2010-06-02T01:03:02Z              ECL EARTH END                           
+155   4  R  2010-06-04T06:42:22Z  000:35:47Z  ECL EARTH START                     0000
+155   4  R  2010-06-04T07:18:09Z              ECL EARTH END                           
+157   4  R  2010-06-06T12:58:20Z  000:35:23Z  ECL EARTH START                     0000
+157   4  R  2010-06-06T13:33:43Z              ECL EARTH END                           
+159   4  R  2010-06-08T19:14:06Z  000:34:39Z  ECL EARTH START                     0001
+159   4  R  2010-06-08T19:48:45Z              ECL EARTH END                           
+162   4  R  2010-06-11T01:29:11Z  000:33:23Z  ECL EARTH START                     0001
+162   4  R  2010-06-11T02:02:34Z              ECL EARTH END                           
+164   4  R  2010-06-13T07:44:17Z  000:31:30Z  ECL EARTH START                     0001
+164   4  R  2010-06-13T08:15:47Z              ECL EARTH END                           
+166   4  R  2010-06-15T14:00:23Z  000:28:50Z  ECL EARTH START                     0001
+166   4  R  2010-06-15T14:29:13Z              ECL EARTH END                           
+168   4  R  2010-06-17T20:17:57Z  000:25:11Z  ECL EARTH START                     0002
+168   4  R  2010-06-17T20:43:08Z              ECL EARTH END                           
+171   4  R  2010-06-20T02:36:52Z  000:19:45Z  ECL EARTH START                     0002
+171   4  R  2010-06-20T02:56:37Z              ECL EARTH END                           
+173   4  R  2010-06-22T08:58:01Z  000:09:16Z  ECL EARTH START                     0009
+173   4  R  2010-06-22T09:07:17Z              ECL EARTH END                           
+311   4  R  2010-11-07T09:23:14Z  000:22:53Z  ECL EARTH START                     0007
+311   4  R  2010-11-07T09:46:07Z              ECL EARTH END                           
+313   4  R  2010-11-09T15:29:50Z  000:36:04Z  ECL EARTH START                     0003
+313   4  R  2010-11-09T16:05:54Z              ECL EARTH END                           
+315   4  R  2010-11-11T21:40:01Z  000:42:39Z  ECL EARTH START                     0003
+315   4  R  2010-11-11T22:22:40Z              ECL EARTH END                           
+318   4  R  2010-11-14T03:52:18Z  000:46:14Z  ECL EARTH START                     0002
+318   4  R  2010-11-14T04:38:32Z              ECL EARTH END                           
+320   4  R  2010-11-16T10:05:37Z  000:48:15Z  ECL EARTH START                     0002
+320   4  R  2010-11-16T10:53:52Z              ECL EARTH END                           
+322   4  R  2010-11-18T16:18:46Z  000:49:24Z  ECL EARTH START                     0001
+322   4  R  2010-11-18T17:08:10Z              ECL EARTH END                           
+324   4  R  2010-11-20T22:31:33Z  000:49:59Z  ECL EARTH START                     0001
+324   4  R  2010-11-20T23:21:32Z              ECL EARTH END                           
+327   4  R  2010-11-23T04:44:34Z  000:50:05Z  ECL EARTH START                     0001
+327   4  R  2010-11-23T05:34:39Z              ECL EARTH END                           
+329   4  R  2010-11-25T10:58:34Z  000:49:45Z  ECL EARTH START                     0001
+329   4  R  2010-11-25T11:48:19Z              ECL EARTH END                           
+331   4  R  2010-11-27T17:13:36Z  000:49:06Z  ECL EARTH START                     0001
+331   4  R  2010-11-27T18:02:42Z              ECL EARTH END                           
+333   4  R  2010-11-29T23:29:09Z  000:48:10Z  ECL EARTH START                     0001
+334   4  R  2010-11-30T00:17:19Z              ECL EARTH END                           
+336   4  R  2010-12-02T05:44:27Z  000:47:01Z  ECL EARTH START                     0001
+336   4  R  2010-12-02T06:31:28Z              ECL EARTH END                           
+338   4  R  2010-12-04T11:59:02Z  000:45:49Z  ECL EARTH START                     0000
+338   4  R  2010-12-04T12:44:51Z              ECL EARTH END                           
+340   4  R  2010-12-06T18:13:08Z  000:44:37Z  ECL EARTH START                     0000
+340   4  R  2010-12-06T18:57:45Z              ECL EARTH END                           
+343   4  R  2010-12-09T00:27:29Z  000:43:24Z  ECL EARTH START                     0000
+343   4  R  2010-12-09T01:10:53Z              ECL EARTH END                           
+345   4  R  2010-12-11T06:42:40Z  000:42:11Z  ECL EARTH START                     0000
+345   4  R  2010-12-11T07:24:51Z              ECL EARTH END                           
+347   4  R  2010-12-13T12:58:22Z  000:40:56Z  ECL EARTH START                     0000
+347   4  R  2010-12-13T13:39:18Z              ECL EARTH END                           
+349   4  R  2010-12-15T19:13:19Z  000:39:39Z  ECL EARTH START                     0000
+349   4  R  2010-12-15T19:52:58Z              ECL EARTH END                           
+352   4  P  2010-12-18T01:27:33Z  000:38:23Z  ECL EARTH START                     0000
+352   4  P  2010-12-18T02:05:56Z              ECL EARTH END                           
+354   4  P  2010-12-20T07:41:38Z  000:37:10Z  ECL EARTH START                     0000
+354   4  P  2010-12-20T08:18:48Z              ECL EARTH END                           
+356   4  R  2010-12-22T13:56:19Z  000:36:01Z  ECL EARTH START                     0000
+356   4  R  2010-12-22T14:32:20Z              ECL EARTH END                           
+358   4  R  2010-12-24T20:11:56Z  000:34:56Z  ECL EARTH START                     0000
+358   4  R  2010-12-24T20:46:52Z              ECL EARTH END                           
+361   4  R  2010-12-27T02:28:04Z  000:33:50Z  ECL EARTH START                     0000
+361   4  R  2010-12-27T03:01:54Z              ECL EARTH END                           
+363   4  R  2010-12-29T08:44:00Z  000:32:46Z  ECL EARTH START                     0000
+363   4  R  2010-12-29T09:16:46Z              ECL EARTH END                           
+365   4  R  2010-12-31T14:59:15Z  000:31:44Z  ECL EARTH START                     0000
+365   4  R  2010-12-31T15:30:59Z              ECL EARTH END                           
+  2   4  R  2011-01-02T21:13:55Z  000:30:42Z  ECL EARTH START                     0000
+  2   4  R  2011-01-02T21:44:37Z              ECL EARTH END                           
+  5   4  R  2011-01-05T03:28:36Z  000:29:45Z  ECL EARTH START                     0000
+  5   4  R  2011-01-05T03:58:21Z              ECL EARTH END                           
+  7   4  R  2011-01-07T09:43:58Z  000:28:52Z  ECL EARTH START                     0000
+  7   4  R  2011-01-07T10:12:50Z              ECL EARTH END                           
+  9   4  R  2011-01-09T15:59:58Z  000:28:05Z  ECL EARTH START                     0000
+  9   4  R  2011-01-09T16:28:03Z              ECL EARTH END                           
+ 11   4  R  2011-01-11T22:15:50Z  000:27:17Z  ECL EARTH START                     0000
+ 11   4  R  2011-01-11T22:43:07Z              ECL EARTH END                           
+ 14   4  R  2011-01-14T04:31:00Z  000:26:32Z  ECL EARTH START                     0000
+ 14   4  R  2011-01-14T04:57:32Z              ECL EARTH END                           
+ 16   4  R  2011-01-16T10:45:51Z  000:25:45Z  ECL EARTH START                     0000
+ 16   4  R  2011-01-16T11:11:36Z              ECL EARTH END                           
+ 18   4  R  2011-01-18T17:01:08Z  000:25:02Z  ECL EARTH START                     0000
+ 18   4  R  2011-01-18T17:26:10Z              ECL EARTH END                           
+ 20   4  R  2011-01-20T23:17:21Z  000:24:20Z  ECL EARTH START                     0000
+ 20   4  R  2011-01-20T23:41:41Z              ECL EARTH END                           
+ 23   4  R  2011-01-23T05:34:15Z  000:23:41Z  ECL EARTH START                     0000
+ 23   4  R  2011-01-23T05:57:56Z              ECL EARTH END                           
+ 25   4  R  2011-01-25T11:51:00Z  000:23:05Z  ECL EARTH START                     0000
+ 25   4  R  2011-01-25T12:14:05Z              ECL EARTH END                           
+ 27   4  R  2011-01-27T18:07:06Z  000:22:32Z  ECL EARTH START                     0000
+ 27   4  R  2011-01-27T18:29:38Z              ECL EARTH END                           
+ 30   4  R  2011-01-30T00:22:32Z  000:21:59Z  ECL EARTH START                     0000
+ 30   4  R  2011-01-30T00:44:31Z              ECL EARTH END                           
+ 32   4  R  2011-02-01T06:37:57Z  000:21:25Z  ECL EARTH START                     0000
+ 32   4  R  2011-02-01T06:59:22Z              ECL EARTH END                           
+ 34   4  R  2011-02-03T12:53:59Z  000:20:54Z  ECL EARTH START                     0000
+ 34   4  R  2011-02-03T13:14:53Z              ECL EARTH END                           
+ 36   4  R  2011-02-05T19:10:41Z  000:20:27Z  ECL EARTH START                     0000
+ 36   4  R  2011-02-05T19:31:08Z              ECL EARTH END                           
+ 39   4  R  2011-02-08T01:27:15Z  000:20:03Z  ECL EARTH START                     0000
+ 39   4  R  2011-02-08T01:47:18Z              ECL EARTH END                           
+ 41   4  R  2011-02-10T07:43:11Z  000:19:40Z  ECL EARTH START                     0000
+ 41   4  R  2011-02-10T08:02:51Z              ECL EARTH END                           
+ 43   4  R  2011-02-12T13:58:43Z  000:19:17Z  ECL EARTH START                     0000
+ 43   4  R  2011-02-12T14:18:00Z              ECL EARTH END                           
+ 45   4  R  2011-02-14T20:14:33Z  000:18:53Z  ECL EARTH START                     0000
+ 45   4  R  2011-02-14T20:33:26Z              ECL EARTH END                           
+ 48   4  R  2011-02-17T02:31:14Z  000:18:27Z  ECL EARTH START                     0000
+ 48   4  R  2011-02-17T02:49:41Z              ECL EARTH END                           
+ 50   4  R  2011-02-19T08:48:37Z  000:18:06Z  ECL EARTH START                     0000
+ 50   4  R  2011-02-19T09:06:43Z              ECL EARTH END                           
+ 52   4  R  2011-02-21T15:05:59Z  000:17:48Z  ECL EARTH START                     0000
+ 52   4  R  2011-02-21T15:23:47Z              ECL EARTH END                           
+ 54   4  R  2011-02-23T21:22:33Z  000:17:35Z  ECL EARTH START                     0000
+ 54   4  R  2011-02-23T21:40:08Z              ECL EARTH END                           
+ 57   4  R  2011-02-26T03:38:24Z  000:17:22Z  ECL EARTH START                     0000
+ 57   4  R  2011-02-26T03:55:46Z              ECL EARTH END                           
+ 59   4  R  2011-02-28T09:54:09Z  000:17:05Z  ECL EARTH START                     0000
+ 59   4  R  2011-02-28T10:11:14Z              ECL EARTH END                           
+ 61   4  R  2011-03-02T16:10:26Z  000:16:48Z  ECL EARTH START                     0000
+ 61   4  R  2011-03-02T16:27:14Z              ECL EARTH END                           
+ 63   4  R  2011-03-04T22:27:19Z  000:16:33Z  ECL EARTH START                     0000
+ 63   4  R  2011-03-04T22:43:52Z              ECL EARTH END                           
+ 66   4  R  2011-03-07T04:44:09Z  000:16:23Z  ECL EARTH START                     0000
+ 66   4  R  2011-03-07T05:00:32Z              ECL EARTH END                           
+ 68   4  R  2011-03-09T11:00:20Z  000:16:16Z  ECL EARTH START                     0000
+ 68   4  R  2011-03-09T11:16:36Z              ECL EARTH END                           
+ 70   4  R  2011-03-11T17:16:04Z  000:16:10Z  ECL EARTH START                     0000
+ 70   4  R  2011-03-11T17:32:14Z              ECL EARTH END                           
+ 72   4  R  2011-03-13T23:31:58Z  000:16:00Z  ECL EARTH START                     0000
+ 72   4  R  2011-03-13T23:47:58Z              ECL EARTH END                           
+ 75   4  R  2011-03-16T05:48:33Z  000:15:48Z  ECL EARTH START                     0000
+ 75   4  R  2011-03-16T06:04:21Z              ECL EARTH END                           
+ 77   4  R  2011-03-18T12:05:54Z  000:15:38Z  ECL EARTH START                     0000
+ 77   4  R  2011-03-18T12:21:32Z              ECL EARTH END                           
+ 79   4  R  2011-03-20T18:23:07Z  000:15:34Z  ECL EARTH START                     0000
+ 79   4  R  2011-03-20T18:38:41Z              ECL EARTH END                           
+ 82   4  R  2011-03-23T00:39:34Z  000:15:37Z  ECL EARTH START                     0000
+ 82   4  R  2011-03-23T00:55:11Z              ECL EARTH END                           
+ 84   4  R  2011-03-25T06:55:09Z  000:15:38Z  ECL EARTH START                     0000
+ 84   4  R  2011-03-25T07:10:47Z              ECL EARTH END                           
+ 86   4  R  2011-03-27T13:10:28Z  000:15:37Z  ECL EARTH START                     0000
+ 86   4  R  2011-03-27T13:26:05Z              ECL EARTH END                           
+ 88   4  R  2011-03-29T19:26:16Z  000:15:32Z  ECL EARTH START                     0000
+ 88   4  R  2011-03-29T19:41:48Z              ECL EARTH END                           
+ 91   4  R  2011-04-01T01:42:46Z  000:15:26Z  ECL EARTH START                     0000
+ 91   4  R  2011-04-01T01:58:12Z              ECL EARTH END                           
+ 93   4  R  2011-04-03T07:59:09Z  000:15:30Z  ECL EARTH START                     0000
+ 93   4  R  2011-04-03T08:14:39Z              ECL EARTH END                           
+ 95   4  R  2011-04-05T14:14:53Z  000:15:39Z  ECL EARTH START                     0000
+ 95   4  R  2011-04-05T14:30:32Z              ECL EARTH END                           
+ 97   4  R  2011-04-07T20:30:02Z  000:15:49Z  ECL EARTH START                     0000
+ 97   4  R  2011-04-07T20:45:51Z              ECL EARTH END                           
+100   4  R  2011-04-10T02:45:19Z  000:15:55Z  ECL EARTH START                     0000
+100   4  R  2011-04-10T03:01:14Z              ECL EARTH END                           
+102   4  R  2011-04-12T09:01:10Z  000:15:59Z  ECL EARTH START                     0000
+102   4  R  2011-04-12T09:17:09Z              ECL EARTH END                           
+104   4  R  2011-04-14T15:17:44Z  000:16:04Z  ECL EARTH START                     0000
+104   4  R  2011-04-14T15:33:48Z              ECL EARTH END                           
+106   4  R  2011-04-16T21:34:29Z  000:16:13Z  ECL EARTH START                     0000
+106   4  R  2011-04-16T21:50:42Z              ECL EARTH END                           
+109   4  R  2011-04-19T03:50:33Z  000:16:34Z  ECL EARTH START                     0000
+109   4  R  2011-04-19T04:07:07Z              ECL EARTH END                           
+111   4  R  2011-04-21T10:05:37Z  000:16:57Z  ECL EARTH START                     0000
+111   4  R  2011-04-21T10:22:34Z              ECL EARTH END                           
+113   4  R  2011-04-23T16:20:12Z  000:17:17Z  ECL EARTH START                     0000
+113   4  R  2011-04-23T16:37:29Z              ECL EARTH END                           
+115   4  R  2011-04-25T22:35:14Z  000:17:31Z  ECL EARTH START                     0000
+115   4  R  2011-04-25T22:52:45Z              ECL EARTH END                           
+118   4  R  2011-04-28T04:50:54Z  000:17:44Z  ECL EARTH START                     0000
+118   4  R  2011-04-28T05:08:38Z              ECL EARTH END                           
+120   4  R  2011-04-30T11:06:34Z  000:18:04Z  ECL EARTH START                     0000
+120   4  R  2011-04-30T11:24:38Z              ECL EARTH END                           
+122   4  R  2011-05-02T17:21:29Z  000:18:36Z  ECL EARTH START                     0000
+122   4  R  2011-05-02T17:40:05Z              ECL EARTH END                           
+124   4  R  2011-05-04T23:35:46Z  000:19:15Z  ECL EARTH START                     0000
+124   4  R  2011-05-04T23:55:01Z              ECL EARTH END                           
+127   4  R  2011-05-07T05:50:02Z  000:19:50Z  ECL EARTH START                     0000
+127   4  R  2011-05-07T06:09:52Z              ECL EARTH END                           
+129   4  R  2011-05-09T12:04:48Z  000:20:24Z  ECL EARTH START                     0000
+129   4  R  2011-05-09T12:25:12Z              ECL EARTH END                           
+131   4  R  2011-05-11T18:20:10Z  000:20:59Z  ECL EARTH START                     0000
+131   4  R  2011-05-11T18:41:09Z              ECL EARTH END                           
+134   4  R  2011-05-14T00:35:47Z  000:21:41Z  ECL EARTH START                     0000
+134   4  R  2011-05-14T00:57:28Z              ECL EARTH END                           
+136   4  R  2011-05-16T06:50:52Z  000:22:35Z  ECL EARTH START                     0000
+136   4  R  2011-05-16T07:13:27Z              ECL EARTH END                           
+138   4  R  2011-05-18T13:04:55Z  000:23:35Z  ECL EARTH START                     0000
+138   4  R  2011-05-18T13:28:30Z              ECL EARTH END                           
+140   4  R  2011-05-20T19:18:12Z  000:24:39Z  ECL EARTH START                     0000
+140   4  R  2011-05-20T19:42:51Z              ECL EARTH END                           
+143   4  R  2011-05-23T01:31:43Z  000:25:40Z  ECL EARTH START                     0000
+143   4  R  2011-05-23T01:57:23Z              ECL EARTH END                           
+145   4  R  2011-05-25T07:45:57Z  000:26:38Z  ECL EARTH START                     0000
+145   4  R  2011-05-25T08:12:35Z              ECL EARTH END                           
+147   4  R  2011-05-27T14:00:14Z  000:27:46Z  ECL EARTH START                     0000
+147   4  R  2011-05-27T14:28:00Z              ECL EARTH END                           
+149   4  R  2011-05-29T20:13:51Z  000:29:07Z  ECL EARTH START                     0000
+149   4  R  2011-05-29T20:42:58Z              ECL EARTH END                           
+152   4  R  2011-06-01T02:26:40Z  000:30:43Z  ECL EARTH START                     0001
+152   4  R  2011-06-01T02:57:23Z              ECL EARTH END                           
+154   4  R  2011-06-03T08:39:14Z  000:32:27Z  ECL EARTH START                     0001
+154   4  R  2011-06-03T09:11:41Z              ECL EARTH END                           
+156   4  R  2011-06-05T14:52:07Z  000:34:14Z  ECL EARTH START                     0001
+156   4  R  2011-06-05T15:26:21Z              ECL EARTH END                           
+158   4  R  2011-06-07T21:05:36Z  000:36:05Z  ECL EARTH START                     0001
+158   4  R  2011-06-07T21:41:41Z              ECL EARTH END                           
+161   4  R  2011-06-10T03:19:20Z  000:38:02Z  ECL EARTH START                     0001
+161   4  R  2011-06-10T03:57:22Z              ECL EARTH END                           
+163   4  R  2011-06-12T09:32:41Z  000:40:08Z  ECL EARTH START                     0001
+163   4  R  2011-06-12T10:12:49Z              ECL EARTH END                           
+165   4  R  2011-06-14T15:45:01Z  000:42:26Z  ECL EARTH START                     0001
+165   4  R  2011-06-14T16:27:27Z              ECL EARTH END                           
+167   4  R  2011-06-16T21:56:21Z  000:44:55Z  ECL EARTH START                     0001
+167   4  R  2011-06-16T22:41:16Z              ECL EARTH END                           
+170   4  R  2011-06-19T04:07:34Z  000:47:29Z  ECL EARTH START                     0001
+170   4  R  2011-06-19T04:55:03Z              ECL EARTH END                           
+172   4  R  2011-06-21T10:19:19Z  000:50:06Z  ECL EARTH START                     0001
+172   4  R  2011-06-21T11:09:25Z              ECL EARTH END                           
+174   4  R  2011-06-23T16:31:21Z  000:52:43Z  ECL EARTH START                     0001
+174   4  R  2011-06-23T17:24:04Z              ECL EARTH END                           
+176   4  R  2011-06-25T22:42:55Z  000:55:26Z  ECL EARTH START                     0001
+176   4  R  2011-06-25T23:38:21Z              ECL EARTH END                           
+179   4  R  2011-06-28T04:53:45Z  000:58:14Z  ECL EARTH START                     0001
+179   4  R  2011-06-28T05:51:59Z              ECL EARTH END                           
+181   4  R  2011-06-30T11:04:12Z  001:01:05Z  ECL EARTH START                     0001
+181   4  R  2011-06-30T12:05:17Z              ECL EARTH END                           
+183   4  R  2011-07-02T17:14:52Z  001:03:54Z  ECL EARTH START                     0002
+183   4  R  2011-07-02T18:18:46Z              ECL EARTH END                           
+185   4  R  2011-07-04T23:26:09Z  001:06:32Z  ECL EARTH START                     0002
+186   4  R  2011-07-05T00:32:41Z              ECL EARTH END                           
+188   4  R  2011-07-07T05:38:02Z  001:08:48Z  ECL EARTH START                     0002
+188   4  R  2011-07-07T06:46:50Z              ECL EARTH END                           
+190   4  R  2011-07-09T11:50:04Z  001:10:32Z  ECL EARTH START                     0002
+190   4  R  2011-07-09T13:00:36Z              ECL EARTH END                           
+192   4  R  2011-07-11T18:01:53Z  001:11:27Z  ECL EARTH START                     0002
+192   4  R  2011-07-11T19:13:20Z              ECL EARTH END                           
+195   4  R  2011-07-14T00:13:25Z  001:11:15Z  ECL EARTH START                     0003
+195   4  R  2011-07-14T01:24:40Z              ECL EARTH END                           
+197   4  R  2011-07-16T06:25:27Z  001:09:31Z  ECL EARTH START                     0003
+197   4  R  2011-07-16T07:34:58Z              ECL EARTH END                           
+199   4  R  2011-07-18T12:38:56Z  001:05:44Z  ECL EARTH START                     0004
+199   4  R  2011-07-18T13:44:40Z              ECL EARTH END                           
+201   4  R  2011-07-20T18:54:38Z  000:58:49Z  ECL EARTH START                     0005
+201   4  R  2011-07-20T19:53:27Z              ECL EARTH END                           
+204   4  R  2011-07-23T01:13:46Z  000:45:26Z  ECL EARTH START                     0008
+204   4  R  2011-07-23T01:59:12Z              ECL EARTH END                           
+348   4  R  2011-12-14T21:03:41Z  000:09:47Z  ECL EARTH START                     0004
+348   4  R  2011-12-14T21:13:28Z              ECL EARTH END                           
+351   4  R  2011-12-17T03:16:23Z  000:17:05Z  ECL EARTH START                     0001
+351   4  R  2011-12-17T03:33:28Z              ECL EARTH END                           
+353   4  R  2011-12-19T09:30:21Z  000:21:25Z  ECL EARTH START                     0001
+353   4  R  2011-12-19T09:51:46Z              ECL EARTH END                           
+355   4  R  2011-12-21T15:44:08Z  000:24:30Z  ECL EARTH START                     0001
+355   4  R  2011-12-21T16:08:38Z              ECL EARTH END                           
+357   4  R  2011-12-23T21:57:28Z  000:26:52Z  ECL EARTH START                     0001
+357   4  R  2011-12-23T22:24:20Z              ECL EARTH END                           
+360   4  R  2011-12-26T04:11:09Z  000:28:39Z  ECL EARTH START                     0000
+360   4  R  2011-12-26T04:39:48Z              ECL EARTH END                           
+362   4  R  2011-12-28T10:26:04Z  000:29:55Z  ECL EARTH START                     0000
+362   4  R  2011-12-28T10:55:59Z              ECL EARTH END                           
+364   4  R  2011-12-30T16:41:33Z  000:30:50Z  ECL EARTH START                     0000
+364   4  R  2011-12-30T17:12:23Z              ECL EARTH END                           
+  1   4  R  2012-01-01T22:56:35Z  000:31:33Z  ECL EARTH START                     0000
+  1   4  R  2012-01-01T23:28:08Z              ECL EARTH END                           
+  4   4  R  2012-01-04T05:11:02Z  000:32:03Z  ECL EARTH START                     0000
+  4   4  R  2012-01-04T05:43:05Z              ECL EARTH END                           
+  6   4  R  2012-01-06T11:25:28Z  000:32:26Z  ECL EARTH START                     0000
+  6   4  R  2012-01-06T11:57:54Z              ECL EARTH END                           
+  8   4  R  2012-01-08T17:40:29Z  000:32:41Z  ECL EARTH START                     0000
+  8   4  R  2012-01-08T18:13:10Z              ECL EARTH END                           
+ 10   4  R  2012-01-10T23:56:20Z  000:32:49Z  ECL EARTH START                     0000
+ 11   4  R  2012-01-11T00:29:09Z              ECL EARTH END                           
+ 13   4  R  2012-01-13T06:12:47Z  000:32:49Z  ECL EARTH START                     0000
+ 13   4  R  2012-01-13T06:45:36Z              ECL EARTH END                           
+ 15   4  R  2012-01-15T12:29:14Z  000:32:40Z  ECL EARTH START                     0000
+ 15   4  R  2012-01-15T13:01:54Z              ECL EARTH END                           
+ 17   4  R  2012-01-17T18:45:04Z  000:32:22Z  ECL EARTH START                     0000
+ 17   4  R  2012-01-17T19:17:26Z              ECL EARTH END                           
+ 20   4  R  2012-01-20T01:00:08Z  000:32:03Z  ECL EARTH START                     0000
+ 20   4  R  2012-01-20T01:32:11Z              ECL EARTH END                           
+ 22   4  R  2012-01-22T07:15:10Z  000:31:42Z  ECL EARTH START                     0000
+ 22   4  R  2012-01-22T07:46:52Z              ECL EARTH END                           
+ 24   4  R  2012-01-24T13:31:07Z  000:31:18Z  ECL EARTH START                     0000
+ 24   4  R  2012-01-24T14:02:25Z              ECL EARTH END                           
+ 26   4  R  2012-01-26T19:47:41Z  000:30:53Z  ECL EARTH START                     0000
+ 26   4  R  2012-01-26T20:18:34Z              ECL EARTH END                           
+ 29   4  R  2012-01-29T02:03:52Z  000:30:20Z  ECL EARTH START                     0000
+ 29   4  R  2012-01-29T02:34:12Z              ECL EARTH END                           
+ 31   4  R  2012-01-31T08:19:24Z  000:29:43Z  ECL EARTH START                     0000
+ 31   4  R  2012-01-31T08:49:07Z              ECL EARTH END                           
+ 33   4  R  2012-02-02T14:34:47Z  000:29:02Z  ECL EARTH START                     0000
+ 33   4  R  2012-02-02T15:03:49Z              ECL EARTH END                           
+ 35   4  R  2012-02-04T20:50:36Z  000:28:22Z  ECL EARTH START                     0000
+ 35   4  R  2012-02-04T21:18:58Z              ECL EARTH END                           
+ 38   4  R  2012-02-07T03:07:11Z  000:27:37Z  ECL EARTH START                     0000
+ 38   4  R  2012-02-07T03:34:48Z              ECL EARTH END                           
+ 40   4  R  2012-02-09T09:24:27Z  000:26:50Z  ECL EARTH START                     0000
+ 40   4  R  2012-02-09T09:51:17Z              ECL EARTH END                           
+ 42   4  R  2012-02-11T15:41:44Z  000:25:59Z  ECL EARTH START                     0000
+ 42   4  R  2012-02-11T16:07:43Z              ECL EARTH END                           
+ 44   4  R  2012-02-13T21:58:22Z  000:25:06Z  ECL EARTH START                     0000
+ 44   4  R  2012-02-13T22:23:28Z              ECL EARTH END                           
+ 47   4  R  2012-02-16T04:14:12Z  000:24:10Z  ECL EARTH START                     0000
+ 47   4  R  2012-02-16T04:38:22Z              ECL EARTH END                           
+ 49   4  R  2012-02-18T10:29:56Z  000:23:09Z  ECL EARTH START                     0000
+ 49   4  R  2012-02-18T10:53:05Z              ECL EARTH END                           
+ 51   4  R  2012-02-20T16:46:28Z  000:22:03Z  ECL EARTH START                     0000
+ 51   4  R  2012-02-20T17:08:31Z              ECL EARTH END                           
+ 53   4  R  2012-02-22T23:03:43Z  000:20:54Z  ECL EARTH START                     0000
+ 53   4  R  2012-02-22T23:24:37Z              ECL EARTH END                           
+ 56   4  R  2012-02-25T05:20:39Z  000:19:41Z  ECL EARTH START                     0000
+ 56   4  R  2012-02-25T05:40:20Z              ECL EARTH END                           
+ 58   4  R  2012-02-27T11:36:52Z  000:18:26Z  ECL EARTH START                     0000
+ 58   4  R  2012-02-27T11:55:18Z              ECL EARTH END                           
+ 60   4  R  2012-02-29T17:52:54Z  000:17:02Z  ECL EARTH START                     0000
+ 60   4  R  2012-02-29T18:09:56Z              ECL EARTH END                           
+ 63   4  R  2012-03-03T00:09:18Z  000:15:26Z  ECL EARTH START                     0000
+ 63   4  R  2012-03-03T00:24:44Z              ECL EARTH END                           
+ 65   4  R  2012-03-05T06:26:33Z  000:13:30Z  ECL EARTH START                     0000
+ 65   4  R  2012-03-05T06:40:03Z              ECL EARTH END                           
+ 67   4  R  2012-03-07T12:44:38Z  000:11:13Z  ECL EARTH START                     0001
+ 67   4  R  2012-03-07T12:55:51Z              ECL EARTH END                           
+ 69   4  R  2012-03-09T19:03:02Z  000:08:31Z  ECL EARTH START                     0001
+ 69   4  R  2012-03-09T19:11:33Z              ECL EARTH END                           
+ 72   4  R  2012-03-12T01:21:13Z  000:04:55Z  ECL EARTH START                     0003
+ 72   4  R  2012-03-12T01:26:08Z              ECL EARTH END                           
+205   4  R  2012-07-23T07:36:23Z  000:50:52Z  ECL EARTH START                     0017
+205   4  R  2012-07-23T08:27:15Z              ECL EARTH END                           
+207   4  R  2012-07-25T13:26:19Z  001:18:48Z  ECL EARTH START                     0011
+207   4  R  2012-07-25T14:45:07Z              ECL EARTH END                           
+209   4  R  2012-07-27T19:19:49Z  001:39:04Z  ECL EARTH START                     0009
+209   4  R  2012-07-27T20:58:53Z              ECL EARTH END                           
+212   4  R  2012-07-30T01:15:07Z  001:54:21Z  ECL EARTH START                     0009
+212   4  R  2012-07-30T03:09:28Z              ECL EARTH END                           
+214   4  R  2012-08-01T07:12:19Z  002:04:21Z  ECL EARTH START                     0009
+214   4  R  2012-08-01T09:16:40Z              ECL EARTH END                           
+216   4  R  2012-08-03T13:12:53Z  002:07:49Z  ECL EARTH START                     0010
+216   4  R  2012-08-03T15:20:42Z              ECL EARTH END                           
+218   4  R  2012-08-05T19:18:41Z  002:02:51Z  ECL EARTH START                     0011
+218   4  R  2012-08-05T21:21:32Z              ECL EARTH END                           
+221   4  R  2012-08-08T01:32:33Z  001:44:05Z  ECL EARTH START                     0015
+221   4  R  2012-08-08T03:16:38Z              ECL EARTH END                           
+223   4  R  2012-08-10T08:06:18Z  000:47:28Z  ECL EARTH START                     0047
+223   4  R  2012-08-10T08:53:46Z              ECL EARTH END                           
+ 13   4  R  2013-01-13T14:45:28Z  000:15:18Z  ECL EARTH START                     0002
+ 13   4  R  2013-01-13T15:00:46Z              ECL EARTH END                           
+ 15   4  R  2013-01-15T20:59:15Z  000:21:25Z  ECL EARTH START                     0001
+ 15   4  R  2013-01-15T21:20:40Z              ECL EARTH END                           
+ 18   4  R  2013-01-18T03:13:11Z  000:25:36Z  ECL EARTH START                     0001
+ 18   4  R  2013-01-18T03:38:47Z              ECL EARTH END                           
+ 20   4  R  2013-01-20T09:26:47Z  000:28:43Z  ECL EARTH START                     0001
+ 20   4  R  2013-01-20T09:55:30Z              ECL EARTH END                           
+ 22   4  R  2013-01-22T15:40:37Z  000:31:09Z  ECL EARTH START                     0001
+ 22   4  R  2013-01-22T16:11:46Z              ECL EARTH END                           
+ 24   4  R  2013-01-24T21:55:11Z  000:33:01Z  ECL EARTH START                     0001
+ 24   4  R  2013-01-24T22:28:12Z              ECL EARTH END                           
+ 27   4  R  2013-01-27T04:10:39Z  000:34:24Z  ECL EARTH START                     0001
+ 27   4  R  2013-01-27T04:45:03Z              ECL EARTH END                           
+ 29   4  R  2013-01-29T10:26:52Z  000:35:22Z  ECL EARTH START                     0000
+ 29   4  R  2013-01-29T11:02:14Z              ECL EARTH END                           
+ 31   4  R  2013-01-31T16:43:21Z  000:35:56Z  ECL EARTH START                     0000
+ 31   4  R  2013-01-31T17:19:17Z              ECL EARTH END                           
+ 33   4  R  2013-02-02T22:59:27Z  000:36:13Z  ECL EARTH START                     0000
+ 33   4  R  2013-02-02T23:35:40Z              ECL EARTH END                           
+ 36   4  R  2013-02-05T05:14:50Z  000:36:10Z  ECL EARTH START                     0000
+ 36   4  R  2013-02-05T05:51:00Z              ECL EARTH END                           
+ 38   4  R  2013-02-07T11:29:56Z  000:35:55Z  ECL EARTH START                     0000
+ 38   4  R  2013-02-07T12:05:51Z              ECL EARTH END                           
+ 40   4  R  2013-02-09T17:46:04Z  000:35:26Z  ECL EARTH START                     0000
+ 40   4  R  2013-02-09T18:21:30Z              ECL EARTH END                           
+ 43   4  R  2013-02-12T00:03:19Z  000:34:46Z  ECL EARTH START                     0000
+ 43   4  R  2013-02-12T00:38:05Z              ECL EARTH END                           
+ 45   4  R  2013-02-14T06:20:05Z  000:33:46Z  ECL EARTH START                     0000
+ 45   4  R  2013-02-14T06:53:51Z              ECL EARTH END                           
+ 47   4  R  2013-02-16T12:36:02Z  000:32:29Z  ECL EARTH START                     0000
+ 47   4  R  2013-02-16T13:08:31Z              ECL EARTH END                           
+ 49   4  R  2013-02-18T18:51:54Z  000:30:55Z  ECL EARTH START                     0000
+ 49   4  R  2013-02-18T19:22:49Z              ECL EARTH END                           
+ 52   4  R  2013-02-21T01:08:19Z  000:29:00Z  ECL EARTH START                     0001
+ 52   4  R  2013-02-21T01:37:19Z              ECL EARTH END                           
+ 54   4  R  2013-02-23T07:25:34Z  000:26:43Z  ECL EARTH START                     0001
+ 54   4  R  2013-02-23T07:52:17Z              ECL EARTH END                           
+ 56   4  R  2013-02-25T13:43:39Z  000:23:52Z  ECL EARTH START                     0001
+ 56   4  R  2013-02-25T14:07:31Z              ECL EARTH END                           
+ 58   4  R  2013-02-27T20:02:09Z  000:20:27Z  ECL EARTH START                     0001
+ 58   4  R  2013-02-27T20:22:36Z              ECL EARTH END                           
+ 61   4  R  2013-03-02T02:20:39Z  000:16:05Z  ECL EARTH START                     0001
+ 61   4  R  2013-03-02T02:36:44Z              ECL EARTH END                           
+ 63   4  R  2013-03-04T08:39:18Z  000:09:37Z  ECL EARTH START                     0003
+ 63   4  R  2013-03-04T08:48:55Z              ECL EARTH END                           
+221   4  R  2013-08-09T07:31:19Z  001:16:29Z  ECL EARTH START                     0035
+221   4  R  2013-08-09T08:47:48Z              ECL EARTH END                           
+223   4  R  2013-08-11T13:01:02Z  002:09:21Z  ECL EARTH START                     0018
+223   4  R  2013-08-11T15:10:23Z              ECL EARTH END                           
+225   4  R  2013-08-13T18:47:03Z  002:32:17Z  ECL EARTH START                     0016
+225   4  R  2013-08-13T21:19:20Z              ECL EARTH END                           
+228   4  R  2013-08-16T00:45:01Z  002:33:46Z  ECL EARTH START                     0017
+228   4  R  2013-08-16T03:18:47Z              ECL EARTH END                           
+230   4  R  2013-08-18T06:58:01Z  002:06:40Z  ECL EARTH START                     0023
+230   4  R  2013-08-18T09:04:41Z              ECL EARTH END                           
+ 28   4  R  2014-01-28T13:22:05Z  000:10:14Z  ECL EARTH START                     0010
+ 28   4  R  2014-01-28T13:32:19Z              ECL EARTH END                           
+ 30   4  R  2014-01-30T19:31:05Z  000:23:41Z  ECL EARTH START                     0002
+ 30   4  R  2014-01-30T19:54:46Z              ECL EARTH END                           
+ 33   4  R  2014-02-02T01:44:50Z  000:30:38Z  ECL EARTH START                     0002
+ 33   4  R  2014-02-02T02:15:28Z              ECL EARTH END                           
+ 35   4  R  2014-02-04T07:58:58Z  000:35:14Z  ECL EARTH START                     0001
+ 35   4  R  2014-02-04T08:34:12Z              ECL EARTH END                           
+ 37   4  R  2014-02-06T14:12:29Z  000:38:28Z  ECL EARTH START                     0001
+ 37   4  R  2014-02-06T14:50:57Z              ECL EARTH END                           
+ 39   4  R  2014-02-08T20:26:16Z  000:40:40Z  ECL EARTH START                     0001
+ 39   4  R  2014-02-08T21:06:56Z              ECL EARTH END                           
+ 42   4  R  2014-02-11T02:40:55Z  000:42:00Z  ECL EARTH START                     0001
+ 42   4  R  2014-02-11T03:22:55Z              ECL EARTH END                           
+ 44   4  R  2014-02-13T08:56:33Z  000:42:37Z  ECL EARTH START                     0001
+ 44   4  R  2014-02-13T09:39:10Z              ECL EARTH END                           
+ 46   4  R  2014-02-15T15:13:00Z  000:42:29Z  ECL EARTH START                     0001
+ 46   4  R  2014-02-15T15:55:29Z              ECL EARTH END                           
+ 48   4  R  2014-02-17T21:29:55Z  000:41:39Z  ECL EARTH START                     0001
+ 48   4  R  2014-02-17T22:11:34Z              ECL EARTH END                           
+ 51   4  R  2014-02-20T03:46:49Z  000:40:08Z  ECL EARTH START                     0001
+ 51   4  R  2014-02-20T04:26:57Z              ECL EARTH END                           
+ 53   4  R  2014-02-22T10:03:19Z  000:37:51Z  ECL EARTH START                     0001
+ 53   4  R  2014-02-22T10:41:10Z              ECL EARTH END                           
+ 55   4  R  2014-02-24T16:19:36Z  000:34:43Z  ECL EARTH START                     0001
+ 55   4  R  2014-02-24T16:54:19Z              ECL EARTH END                           
+ 57   4  R  2014-02-26T22:36:57Z  000:30:27Z  ECL EARTH START                     0002
+ 57   4  R  2014-02-26T23:07:24Z              ECL EARTH END                           
+ 60   4  R  2014-03-01T04:56:45Z  000:24:19Z  ECL EARTH START                     0002
+ 60   4  R  2014-03-01T05:21:04Z              ECL EARTH END                           
+ 62   4  R  2014-03-03T11:18:00Z  000:14:38Z  ECL EARTH START                     0004
+ 62   4  R  2014-03-03T11:32:38Z              ECL EARTH END                           
+229   4  R  2014-08-17T07:20:40Z  001:07:52Z  ECL EARTH START                     0067
+229   4  R  2014-08-17T08:28:32Z              ECL EARTH END                           
+231   4  R  2014-08-19T12:40:05Z  002:20:32Z  ECL EARTH START                     0022
+231   4  R  2014-08-19T15:00:37Z              ECL EARTH END                           
+233   4  R  2014-08-21T18:27:09Z  002:40:23Z  ECL EARTH START                     0019
+233   4  R  2014-08-21T21:07:32Z              ECL EARTH END                           
+236   4  R  2014-08-24T00:33:36Z  002:23:59Z  ECL EARTH START                     0023
+236   4  R  2014-08-24T02:57:35Z              ECL EARTH END                           
+238   4  R  2014-08-26T07:17:29Z  000:55:34Z  ECL EARTH START                     0055
+238   4  R  2014-08-26T08:13:03Z              ECL EARTH END                           
+ 38   4  R  2015-02-07T23:28:31Z  000:21:48Z  ECL EARTH START                     0005
+ 38   4  R  2015-02-07T23:50:19Z              ECL EARTH END                           
+ 41   4  R  2015-02-10T05:38:22Z  000:33:56Z  ECL EARTH START                     0003
+ 41   4  R  2015-02-10T06:12:18Z              ECL EARTH END                           
+ 43   4  R  2015-02-12T11:50:08Z  000:40:54Z  ECL EARTH START                     0002
+ 43   4  R  2015-02-12T12:31:02Z              ECL EARTH END                           
+ 45   4  R  2015-02-14T18:02:36Z  000:45:14Z  ECL EARTH START                     0002
+ 45   4  R  2015-02-14T18:47:50Z              ECL EARTH END                           
+ 48   4  R  2015-02-17T00:16:12Z  000:47:50Z  ECL EARTH START                     0002
+ 48   4  R  2015-02-17T01:04:02Z              ECL EARTH END                           
+ 50   4  R  2015-02-19T06:32:13Z  000:48:55Z  ECL EARTH START                     0002
+ 50   4  R  2015-02-19T07:21:08Z              ECL EARTH END                           
+ 52   4  R  2015-02-21T12:49:06Z  000:48:35Z  ECL EARTH START                     0002
+ 52   4  R  2015-02-21T13:37:41Z              ECL EARTH END                           
+ 54   4  R  2015-02-23T19:04:52Z  000:46:51Z  ECL EARTH START                     0002
+ 54   4  R  2015-02-23T19:51:43Z              ECL EARTH END                           
+ 57   4  R  2015-02-26T01:20:43Z  000:43:39Z  ECL EARTH START                     0002
+ 57   4  R  2015-02-26T02:04:22Z              ECL EARTH END                           
+ 59   4  R  2015-02-28T07:37:54Z  000:38:33Z  ECL EARTH START                     0002
+ 59   4  R  2015-02-28T08:16:27Z              ECL EARTH END                           
+ 61   4  R  2015-03-02T13:57:04Z  000:30:42Z  ECL EARTH START                     0003
+ 61   4  R  2015-03-02T14:27:46Z              ECL EARTH END                           
+ 63   4  R  2015-03-04T20:19:50Z  000:16:36Z  ECL EARTH START                     0007
+ 63   4  R  2015-03-04T20:36:26Z              ECL EARTH END                           
+235   4  R  2015-08-23T00:58:30Z  001:37:53Z  ECL EARTH START                     0037
+235   4  R  2015-08-23T02:36:23Z              ECL EARTH END                           
+237   4  R  2015-08-25T06:30:18Z  002:30:17Z  ECL EARTH START                     0021
+237   4  R  2015-08-25T09:00:35Z              ECL EARTH END                           
+239   4  R  2015-08-27T12:26:54Z  002:34:36Z  ECL EARTH START                     0021
+239   4  R  2015-08-27T15:01:30Z              ECL EARTH END                           
+241   4  R  2015-08-29T18:47:46Z  001:50:56Z  ECL EARTH START                     0033
+241   4  R  2015-08-29T20:38:42Z              ECL EARTH END                           
+ 44   4  R  2016-02-13T21:12:03Z  000:23:07Z  ECL EARTH START                     0007
+ 44   4  R  2016-02-13T21:35:10Z              ECL EARTH END                           
+ 47   4  R  2016-02-16T03:18:26Z  000:38:47Z  ECL EARTH START                     0004
+ 47   4  R  2016-02-16T03:57:13Z              ECL EARTH END                           
+ 49   4  R  2016-02-18T09:28:44Z  000:47:11Z  ECL EARTH START                     0003
+ 49   4  R  2016-02-18T10:15:55Z              ECL EARTH END                           
+ 51   4  R  2016-02-20T15:41:34Z  000:51:58Z  ECL EARTH START                     0002
+ 51   4  R  2016-02-20T16:33:32Z              ECL EARTH END                           
+ 53   4  R  2016-02-22T21:56:13Z  000:54:06Z  ECL EARTH START                     0002
+ 53   4  R  2016-02-22T22:50:19Z              ECL EARTH END                           
+ 56   4  R  2016-02-25T04:12:03Z  000:53:56Z  ECL EARTH START                     0002
+ 56   4  R  2016-02-25T05:05:59Z              ECL EARTH END                           
+ 58   4  R  2016-02-27T10:28:37Z  000:51:33Z  ECL EARTH START                     0002
+ 58   4  R  2016-02-27T11:20:10Z              ECL EARTH END                           
+ 60   4  R  2016-02-29T16:45:53Z  000:46:32Z  ECL EARTH START                     0003
+ 60   4  R  2016-02-29T17:32:26Z              ECL EARTH END                           
+ 62   4  R  2016-03-02T23:04:12Z  000:38:17Z  ECL EARTH START                     0003
+ 62   4  R  2016-03-02T23:42:30Z              ECL EARTH END                           
+ 65   4  R  2016-03-05T05:25:55Z  000:23:18Z  ECL EARTH START                     0007
+ 65   4  R  2016-03-05T05:49:14Z              ECL EARTH END                           
+238   4  R  2016-08-25T13:24:45Z  001:18:29Z  ECL EARTH START                     0059
+238   4  R  2016-08-25T14:43:15Z              ECL EARTH END                           
+240   4  R  2016-08-27T18:51:37Z  002:23:36Z  ECL EARTH START                     0022
+240   4  R  2016-08-27T21:15:13Z              ECL EARTH END                           
+243   4  R  2016-08-30T00:47:55Z  002:31:08Z  ECL EARTH START                     0021
+243   4  R  2016-08-30T03:19:03Z              ECL EARTH END                           
+245   4  R  2016-09-01T07:09:16Z  001:49:52Z  ECL EARTH START                     0032
+245   4  R  2016-09-01T08:59:09Z              ECL EARTH END                           
+ 47   4  R  2017-02-16T12:53:06Z  000:14:12Z  ECL EARTH START                     0014
+ 47   4  R  2017-02-16T13:07:18Z              ECL EARTH END                           
+ 49   4  R  2017-02-18T18:55:21Z  000:39:01Z  ECL EARTH START                     0005
+ 49   4  R  2017-02-18T19:34:22Z              ECL EARTH END                           
+ 52   4  R  2017-02-21T01:04:10Z  000:49:48Z  ECL EARTH START                     0003
+ 52   4  R  2017-02-21T01:53:59Z              ECL EARTH END                           
+ 54   4  R  2017-02-23T07:15:37Z  000:55:35Z  ECL EARTH START                     0003
+ 54   4  R  2017-02-23T08:11:12Z              ECL EARTH END                           
+ 56   4  R  2017-02-25T13:29:50Z  000:57:55Z  ECL EARTH START                     0003
+ 56   4  R  2017-02-25T14:27:46Z              ECL EARTH END                           
+ 58   4  R  2017-02-27T19:46:35Z  000:57:13Z  ECL EARTH START                     0003
+ 58   4  R  2017-02-27T20:43:49Z              ECL EARTH END                           
+ 61   4  R  2017-03-02T02:03:56Z  000:53:25Z  ECL EARTH START                     0003
+ 61   4  R  2017-03-02T02:57:21Z              ECL EARTH END                           
+ 63   4  R  2017-03-04T08:21:40Z  000:45:53Z  ECL EARTH START                     0004
+ 63   4  R  2017-03-04T09:07:33Z              ECL EARTH END                           
+ 65   4  R  2017-03-06T14:42:23Z  000:32:03Z  ECL EARTH START                     0006
+ 65   4  R  2017-03-06T15:14:26Z              ECL EARTH END                           
+241   4  R  2017-08-29T01:52:31Z  001:36:46Z  ECL EARTH START                     0036
+241   4  R  2017-08-29T03:29:18Z              ECL EARTH END                           
+243   4  R  2017-08-31T07:28:47Z  002:26:04Z  ECL EARTH START                     0021
+243   4  R  2017-08-31T09:54:51Z              ECL EARTH END                           
+245   4  R  2017-09-02T13:30:56Z  002:24:21Z  ECL EARTH START                     0021
+245   4  R  2017-09-02T15:55:18Z              ECL EARTH END                           
+247   4  R  2017-09-04T20:01:22Z  001:25:59Z  ECL EARTH START                     0046
+247   4  R  2017-09-04T21:27:22Z              ECL EARTH END                           
+ 51   4  R  2018-02-20T04:31:10Z  000:21:27Z  ECL EARTH START                     0015
+ 51   4  R  2018-02-20T04:52:38Z              ECL EARTH END                           
+ 53   4  R  2018-02-22T10:34:28Z  000:43:22Z  ECL EARTH START                     0005
+ 53   4  R  2018-02-22T11:17:50Z              ECL EARTH END                           
+ 55   4  R  2018-02-24T16:43:08Z  000:53:39Z  ECL EARTH START                     0004
+ 55   4  R  2018-02-24T17:36:47Z              ECL EARTH END                           
+ 57   4  R  2018-02-26T22:54:58Z  000:58:49Z  ECL EARTH START                     0003
+ 57   4  R  2018-02-26T23:53:48Z              ECL EARTH END                           
+ 60   4  R  2018-03-01T05:09:34Z  001:00:13Z  ECL EARTH START                     0003
+ 60   4  R  2018-03-01T06:09:47Z              ECL EARTH END                           
+ 62   4  R  2018-03-03T11:26:12Z  000:58:04Z  ECL EARTH START                     0003
+ 62   4  R  2018-03-03T12:24:16Z              ECL EARTH END                           
+ 64   4  R  2018-03-05T17:44:17Z  000:52:02Z  ECL EARTH START                     0004
+ 64   4  R  2018-03-05T18:36:19Z              ECL EARTH END                           
+ 67   4  R  2018-03-08T00:04:22Z  000:40:29Z  ECL EARTH START                     0005
+ 67   4  R  2018-03-08T00:44:52Z              ECL EARTH END                           
+ 69   4  R  2018-03-10T06:31:52Z  000:13:09Z  ECL EARTH START                     0013
+ 69   4  R  2018-03-10T06:45:02Z              ECL EARTH END                           
+244   4  R  2018-09-01T14:28:46Z  002:00:46Z  ECL EARTH START                     0026
+244   4  R  2018-09-01T16:29:33Z              ECL EARTH END                           
+246   4  R  2018-09-03T20:15:55Z  002:29:26Z  ECL EARTH START                     0020
+246   4  R  2018-09-03T22:45:22Z              ECL EARTH END                           
+249   4  R  2018-09-06T02:26:14Z  002:11:42Z  ECL EARTH START                     0024
+249   4  R  2018-09-06T04:37:57Z              ECL EARTH END                           
+ 54   4  R  2019-02-23T20:05:50Z  000:33:54Z  ECL EARTH START                     0007
+ 54   4  R  2019-02-23T20:39:45Z              ECL EARTH END                           
+ 57   4  R  2019-02-26T02:12:30Z  000:49:09Z  ECL EARTH START                     0004
+ 57   4  R  2019-02-26T03:01:40Z              ECL EARTH END                           
+ 59   4  R  2019-02-28T08:22:27Z  000:56:57Z  ECL EARTH START                     0003
+ 59   4  R  2019-02-28T09:19:25Z              ECL EARTH END                           
+ 61   4  R  2019-03-02T14:34:52Z  001:00:21Z  ECL EARTH START                     0003
+ 61   4  R  2019-03-02T15:35:14Z              ECL EARTH END                           
+ 63   4  R  2019-03-04T20:50:03Z  001:00:05Z  ECL EARTH START                     0003
+ 63   4  R  2019-03-04T21:50:09Z              ECL EARTH END                           
+ 66   4  R  2019-03-07T03:07:54Z  000:56:05Z  ECL EARTH START                     0004
+ 66   4  R  2019-03-07T04:03:59Z              ECL EARTH END                           
+ 68   4  R  2019-03-09T09:27:44Z  000:47:24Z  ECL EARTH START                     0004
+ 68   4  R  2019-03-09T10:15:08Z              ECL EARTH END                           
+ 70   4  R  2019-03-11T15:50:37Z  000:30:27Z  ECL EARTH START                     0008
+ 70   4  R  2019-03-11T16:21:04Z              ECL EARTH END                           
+245   4  R  2019-09-02T21:48:05Z  001:03:07Z  ECL EARTH START                     0063
+245   4  R  2019-09-02T22:51:13Z              ECL EARTH END                           
+248   4  R  2019-09-05T03:10:47Z  002:20:09Z  ECL EARTH START                     0022
+248   4  R  2019-09-05T05:30:56Z              ECL EARTH END                           
+250   4  R  2019-09-07T09:07:48Z  002:28:49Z  ECL EARTH START                     0021
+250   4  R  2019-09-07T11:36:38Z              ECL EARTH END                           
+252   4  R  2019-09-09T15:29:32Z  001:47:31Z  ECL EARTH START                     0032
+252   4  R  2019-09-09T17:17:04Z              ECL EARTH END                           
+ 56   4  R  2020-02-25T05:34:46Z  000:23:06Z  ECL EARTH START                     0011
+ 56   4  R  2020-02-25T05:57:52Z              ECL EARTH END                           
+ 58   4  R  2020-02-27T11:40:05Z  000:43:18Z  ECL EARTH START                     0005
+ 58   4  R  2020-02-27T12:23:24Z              ECL EARTH END                           
+ 60   4  R  2020-02-29T17:49:38Z  000:53:05Z  ECL EARTH START                     0003
+ 60   4  R  2020-02-29T18:42:43Z              ECL EARTH END                           
+ 63   4  R  2020-03-03T00:01:04Z  000:58:03Z  ECL EARTH START                     0003
+ 63   4  R  2020-03-03T00:59:07Z              ECL EARTH END                           
+ 65   4  R  2020-03-05T06:14:32Z  000:59:28Z  ECL EARTH START                     0003
+ 65   4  R  2020-03-05T07:14:01Z              ECL EARTH END                           
+ 67   4  R  2020-03-07T12:30:28Z  000:57:35Z  ECL EARTH START                     0003
+ 67   4  R  2020-03-07T13:28:03Z              ECL EARTH END                           
+ 69   4  R  2020-03-09T18:48:58Z  000:51:58Z  ECL EARTH START                     0004
+ 69   4  R  2020-03-09T19:40:57Z              ECL EARTH END                           
+ 72   4  R  2020-03-12T01:09:58Z  000:41:07Z  ECL EARTH START                     0005
+ 72   4  R  2020-03-12T01:51:05Z              ECL EARTH END                           
+ 74   4  R  2020-03-14T07:36:42Z  000:17:02Z  ECL EARTH START                     0017
+ 74   4  R  2020-03-14T07:53:44Z              ECL EARTH END                           
+249   4  R  2020-09-05T10:09:37Z  001:51:43Z  ECL EARTH START                     0032
+249   4  R  2020-09-05T12:01:20Z              ECL EARTH END                           
+251   4  R  2020-09-07T15:49:55Z  002:32:32Z  ECL EARTH START                     0021
+251   4  R  2020-09-07T18:22:28Z              ECL EARTH END                           
+253   4  R  2020-09-09T21:55:40Z  002:22:05Z  ECL EARTH START                     0023
+254   4  R  2020-09-10T00:17:46Z              ECL EARTH END                           
+256   4  R  2020-09-12T04:36:38Z  000:59:57Z  ECL EARTH START                     0059
+256   4  R  2020-09-12T05:36:35Z              ECL EARTH END                           
+ 56   4  R  2021-02-25T14:58:30Z  000:13:31Z  ECL EARTH START                     0013
+ 56   4  R  2021-02-25T15:12:02Z              ECL EARTH END                           
+ 58   4  R  2021-02-27T21:02:14Z  000:37:17Z  ECL EARTH START                     0004
+ 58   4  R  2021-02-27T21:39:31Z              ECL EARTH END                           
+ 61   4  R  2021-03-02T03:12:34Z  000:47:53Z  ECL EARTH START                     0003
+ 61   4  R  2021-03-02T04:00:28Z              ECL EARTH END                           
+ 63   4  R  2021-03-04T09:24:34Z  000:53:44Z  ECL EARTH START                     0003
+ 63   4  R  2021-03-04T10:18:19Z              ECL EARTH END                           
+ 65   4  R  2021-03-06T15:37:20Z  000:56:23Z  ECL EARTH START                     0003
+ 65   4  R  2021-03-06T16:33:43Z              ECL EARTH END                           
+ 67   4  R  2021-03-08T21:51:26Z  000:56:19Z  ECL EARTH START                     0003
+ 67   4  R  2021-03-08T22:47:45Z              ECL EARTH END                           
+ 70   4  R  2021-03-11T04:08:03Z  000:53:28Z  ECL EARTH START                     0003
+ 70   4  R  2021-03-11T05:01:32Z              ECL EARTH END                           
+ 72   4  R  2021-03-13T10:27:30Z  000:47:17Z  ECL EARTH START                     0003
+ 72   4  R  2021-03-13T11:14:47Z              ECL EARTH END                           
+ 74   4  R  2021-03-15T16:49:04Z  000:36:04Z  ECL EARTH START                     0005
+ 74   4  R  2021-03-15T17:25:09Z              ECL EARTH END                           
+ 76   4  R  2021-03-17T23:18:11Z  000:07:37Z  ECL EARTH START                     0007
+ 76   4  R  2021-03-17T23:25:48Z              ECL EARTH END                           
+251   4  R  2021-09-08T22:27:37Z  002:17:51Z  ECL EARTH START                     0026
+252   4  R  2021-09-09T00:45:28Z              ECL EARTH END                           
+254   4  R  2021-09-11T04:16:13Z  002:39:14Z  ECL EARTH START                     0022
+254   4  R  2021-09-11T06:55:27Z              ECL EARTH END                           
+256   4  R  2021-09-13T10:29:04Z  002:10:56Z  ECL EARTH START                     0027
+256   4  R  2021-09-13T12:40:01Z              ECL EARTH END                           
+ 58   4  R  2022-02-27T00:13:42Z  000:11:44Z  ECL EARTH START                     0011
+ 58   4  R  2022-02-27T00:25:26Z              ECL EARTH END                           
+ 60   4  R  2022-03-01T06:18:18Z  000:32:21Z  ECL EARTH START                     0004
+ 60   4  R  2022-03-01T06:50:39Z              ECL EARTH END                           
+ 62   4  R  2022-03-03T12:30:02Z  000:42:02Z  ECL EARTH START                     0003
+ 62   4  R  2022-03-03T13:12:05Z              ECL EARTH END                           
+ 64   4  R  2022-03-05T18:43:19Z  000:47:51Z  ECL EARTH START                     0002
+ 64   4  R  2022-03-05T19:31:11Z              ECL EARTH END                           
+ 67   4  R  2022-03-08T00:56:34Z  000:51:06Z  ECL EARTH START                     0002
+ 67   4  R  2022-03-08T01:47:41Z              ECL EARTH END                           
+ 69   4  R  2022-03-10T07:10:24Z  000:52:20Z  ECL EARTH START                     0002
+ 69   4  R  2022-03-10T08:02:44Z              ECL EARTH END                           
+ 71   4  R  2022-03-12T13:25:30Z  000:51:39Z  ECL EARTH START                     0002
+ 71   4  R  2022-03-12T14:17:10Z              ECL EARTH END                           
+ 73   4  R  2022-03-14T19:42:17Z  000:48:57Z  ECL EARTH START                     0002
+ 73   4  R  2022-03-14T20:31:15Z              ECL EARTH END                           
+ 76   4  R  2022-03-17T02:00:55Z  000:43:47Z  ECL EARTH START                     0003
+ 76   4  R  2022-03-17T02:44:43Z              ECL EARTH END                           
+ 78   4  R  2022-03-19T08:21:33Z  000:35:02Z  ECL EARTH START                     0004
+ 78   4  R  2022-03-19T08:56:36Z              ECL EARTH END                           
+ 80   4  R  2022-03-21T14:45:51Z  000:18:01Z  ECL EARTH START                     0010
+ 80   4  R  2022-03-21T15:03:53Z              ECL EARTH END                           
+253   4  R  2022-09-10T05:14:21Z  000:53:57Z  ECL EARTH START                     0053
+253   4  R  2022-09-10T06:08:19Z              ECL EARTH END                           
+255   4  R  2022-09-12T10:23:52Z  002:31:28Z  ECL EARTH START                     0025
+255   4  R  2022-09-12T12:55:21Z              ECL EARTH END                           
+257   4  R  2022-09-14T16:15:09Z  002:44:27Z  ECL EARTH START                     0022
+257   4  R  2022-09-14T18:59:36Z              ECL EARTH END                           
+259   4  R  2022-09-16T22:30:10Z  002:08:18Z  ECL EARTH START                     0029
+260   4  R  2022-09-17T00:38:28Z              ECL EARTH END                           
+ 59   4  R  2023-02-28T09:20:06Z  000:16:29Z  ECL EARTH START                     0006
+ 59   4  R  2023-02-28T09:36:35Z              ECL EARTH END                           
+ 61   4  R  2023-03-02T15:28:49Z  000:28:56Z  ECL EARTH START                     0003
+ 61   4  R  2023-03-02T15:57:46Z              ECL EARTH END                           
+ 63   4  R  2023-03-04T21:40:51Z  000:36:10Z  ECL EARTH START                     0002
+ 63   4  R  2023-03-04T22:17:01Z              ECL EARTH END                           
+ 66   4  R  2023-03-07T03:54:37Z  000:41:01Z  ECL EARTH START                     0002
+ 66   4  R  2023-03-07T04:35:38Z              ECL EARTH END                           
+ 68   4  R  2023-03-09T10:09:22Z  000:44:12Z  ECL EARTH START                     0002
+ 68   4  R  2023-03-09T10:53:34Z              ECL EARTH END                           
+ 70   4  R  2023-03-11T16:24:25Z  000:46:03Z  ECL EARTH START                     0001
+ 70   4  R  2023-03-11T17:10:29Z              ECL EARTH END                           
+ 72   4  R  2023-03-13T22:39:20Z  000:46:42Z  ECL EARTH START                     0001
+ 72   4  R  2023-03-13T23:26:03Z              ECL EARTH END                           
+ 75   4  R  2023-03-16T04:54:07Z  000:46:14Z  ECL EARTH START                     0001
+ 75   4  R  2023-03-16T05:40:21Z              ECL EARTH END                           
+ 77   4  R  2023-03-18T11:09:51Z  000:44:35Z  ECL EARTH START                     0002
+ 77   4  R  2023-03-18T11:54:27Z              ECL EARTH END                           
+ 79   4  R  2023-03-20T17:28:13Z  000:41:34Z  ECL EARTH START                     0002
+ 79   4  R  2023-03-20T18:09:47Z              ECL EARTH END                           
+ 81   4  R  2023-03-22T23:47:58Z  000:36:46Z  ECL EARTH START                     0002
+ 82   4  R  2023-03-23T00:24:44Z              ECL EARTH END                           
+ 84   4  R  2023-03-25T06:07:16Z  000:29:24Z  ECL EARTH START                     0003
+ 84   4  R  2023-03-25T06:36:40Z              ECL EARTH END                           
+ 86   4  R  2023-03-27T12:28:44Z  000:16:16Z  ECL EARTH START                     0006
+ 86   4  R  2023-03-27T12:45:01Z              ECL EARTH END                           
